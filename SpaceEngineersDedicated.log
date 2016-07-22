@@ -630,3 +630,136 @@
 2016-07-22 04:37:04.712 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
 2016-07-22 04:37:05.618 - Thread:   6 ->  GC Memory: 1,244,253,664 B
 2016-07-22 04:37:05.799 - Thread:   6 ->  Game ready... Press Ctrl+C to exit
+2016-07-22 05:05:00.626 - Thread:   6 ->  Peer2Peer_SessionRequest 76561198052357530
+2016-07-22 05:05:04.362 - Thread:   6 ->  OnConnectedClient Tronald Dump attempt
+2016-07-22 05:05:04.367 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:05:04.367 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:04.506 - Thread:   6 ->  GC Memory: 1,125,095,400 B
+2016-07-22 05:05:04.506 - Thread:   6 ->  Autosave initiated
+2016-07-22 05:05:04.506 - Thread:   6 ->  Character state: True
+2016-07-22 05:05:04.506 - Thread:   6 ->  IsServer: True
+2016-07-22 05:05:04.506 - Thread:   6 ->  MyAsyncSaving.InProgress: False
+2016-07-22 05:05:04.506 - Thread:   6 ->  Autosave
+2016-07-22 05:05:04.512 - Thread:   6 ->  Saving world - START
+2016-07-22 05:05:04.512 - Thread:   6 ->     Making world state snapshot.
+2016-07-22 05:05:04.512 - Thread:   6 ->     Before snapshot.: GC Memory: 1,125,095,400 B
+2016-07-22 05:05:04.657 - Thread:   6 ->     After snapshot.: GC Memory: 1,127,235,992 B
+2016-07-22 05:05:04.658 - Thread:   6 ->     Directory cleanup: GC Memory: 1,127,235,992 B
+2016-07-22 05:05:04.658 - Thread:   6 ->  Saving world - END
+2016-07-22 05:05:04.662 - Thread:   6 ->  Server ValidateAuthTicketResponse (OK), owner: 76561198052357530
+2016-07-22 05:05:04.663 - Thread:  10 ->  Session snapshot save - START
+2016-07-22 05:05:04.663 - Thread:  10 ->     Checking file access for files in target dir.
+2016-07-22 05:05:05.050 - Thread:  10 ->  Session snapshot save - END
+2016-07-22 05:05:05.167 - Thread:   6 ->  World request received: Tronald Dump
+2016-07-22 05:05:05.167 - Thread:   6 ->  ...responding
+2016-07-22 05:05:05.486 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-07-22 05:05:05.488 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-07-22 05:05:05.639 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
+2016-07-22 05:05:10.340 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:14.356 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:14.358 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:05:20.385 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:24.401 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:05:26.410 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:30.427 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-07-22 05:05:34.444 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:05:34.511 - Thread:   6 ->  GC Memory: 1,135,262,496 B
+2016-07-22 05:05:46.024 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:05:56.066 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:04.516 - Thread:   6 ->  GC Memory: 1,154,055,072 B
+2016-07-22 05:06:06.105 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:16.148 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:26.189 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:34.525 - Thread:   6 ->  GC Memory: 1,155,564,168 B
+2016-07-22 05:06:36.231 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:46.273 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:06:56.315 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:04.533 - Thread:   6 ->  GC Memory: 1,155,448,712 B
+2016-07-22 05:07:06.357 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:16.398 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:26.469 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:34.546 - Thread:   6 ->  GC Memory: 1,154,996,592 B
+2016-07-22 05:07:36.519 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:46.562 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:07:56.604 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:04.554 - Thread:   6 ->  GC Memory: 1,154,961,320 B
+2016-07-22 05:08:06.645 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:16.687 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:26.721 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:34.555 - Thread:   6 ->  GC Memory: 1,152,706,944 B
+2016-07-22 05:08:36.764 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:46.805 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:08:56.847 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:04.564 - Thread:   6 ->  GC Memory: 1,158,748,760 B
+2016-07-22 05:09:06.889 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:16.931 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:26.973 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:34.572 - Thread:   6 ->  GC Memory: 1,158,609,432 B
+2016-07-22 05:09:37.014 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:47.056 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:09:54.505 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
+2016-07-22 05:09:57.098 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:04.580 - Thread:   6 ->  GC Memory: 1,157,212,528 B
+2016-07-22 05:10:06.053 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
+2016-07-22 05:10:07.140 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:17.182 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:18.940 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
+2016-07-22 05:10:22.119 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
+2016-07-22 05:10:27.224 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:34.595 - Thread:   6 ->  GC Memory: 1,162,617,448 B
+2016-07-22 05:10:37.272 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:47.314 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:10:57.350 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:04.598 - Thread:   6 ->  GC Memory: 1,161,839,496 B
+2016-07-22 05:11:07.392 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:17.434 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:27.476 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:34.606 - Thread:   6 ->  GC Memory: 1,164,693,016 B
+2016-07-22 05:11:37.518 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:47.560 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:11:57.601 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:04.614 - Thread:   6 ->  GC Memory: 1,165,813,448 B
+2016-07-22 05:12:07.643 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:17.685 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:27.727 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:34.628 - Thread:   6 ->  GC Memory: 1,170,100,392 B
+2016-07-22 05:12:37.774 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:47.815 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:12:57.857 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:04.636 - Thread:   6 ->  GC Memory: 1,172,664,008 B
+2016-07-22 05:13:07.898 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:17.940 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:27.983 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:34.644 - Thread:   6 ->  GC Memory: 1,176,393,032 B
+2016-07-22 05:13:38.024 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:48.083 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:13:58.124 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-07-22 05:14:00.151 - Thread:   6 ->  Exiting..
+2016-07-22 05:14:00.154 - Thread:   6 ->  MySession::Unload START
+2016-07-22 05:14:00.154 - Thread:   6 ->  AutoSaveInMinutes: 20
+2016-07-22 05:14:00.154 - Thread:   6 ->  MySandboxGame.IsDedicated: True
+2016-07-22 05:14:00.154 - Thread:   6 ->  IsServer: True
+2016-07-22 05:14:00.154 - Thread:   6 ->  Autosave in unload
+2016-07-22 05:14:00.154 - Thread:   6 ->  Saving world - START
+2016-07-22 05:14:00.154 - Thread:   6 ->     Making world state snapshot.
+2016-07-22 05:14:00.154 - Thread:   6 ->     Before snapshot.: GC Memory: 1,177,400,688 B
+2016-07-22 05:14:00.412 - Thread:   6 ->     After snapshot.: GC Memory: 1,182,668,520 B
+2016-07-22 05:14:00.412 - Thread:   6 ->     Directory cleanup: GC Memory: 1,182,668,520 B
+2016-07-22 05:14:00.412 - Thread:   6 ->  Saving world - END
+2016-07-22 05:14:00.412 - Thread:   6 ->  Session snapshot save - START
+2016-07-22 05:14:00.412 - Thread:   6 ->     Checking file access for files in target dir.
+2016-07-22 05:14:00.550 - Thread:   6 ->  Session snapshot save - END
+2016-07-22 05:14:00.658 - Thread:   6 ->  MySunWind.UnloadData - START
+2016-07-22 05:14:00.658 - Thread:   6 ->  MySunWind.UnloadData - END
+2016-07-22 05:14:00.660 - Thread:   6 ->  Unloading Procedural World Generator
+2016-07-22 05:14:00.687 - Thread:   6 ->  Network readers disposed
+2016-07-22 05:14:00.895 - Thread:   6 ->  Network readers disposed
+2016-07-22 05:14:00.895 - Thread:   6 ->  Logging off Steam...
+2016-07-22 05:14:00.895 - Thread:   6 ->  Shutting down server...
+2016-07-22 05:14:01.035 - Thread:   6 ->  Done
+2016-07-22 05:14:01.035 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - START
+2016-07-22 05:14:01.051 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - END
+2016-07-22 05:14:01.364 - Thread:   6 ->  MySession::Unload END
+2016-07-22 05:14:01.364 - Thread:   6 ->  MySandboxGame.UnloadData() - START
+2016-07-22 05:14:01.364 - Thread:   6 ->  MySandboxGame.UnloadData() - END
+2016-07-22 05:14:01.473 - Thread:   6 ->  Log Closed
