@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>828805600000</ElapsedGameTime>
+  <ElapsedGameTime>841676160000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-07-26T07:00:01.2788251+00:00</LastSaveTime>
+  <LastSaveTime>2016-07-27T07:00:01.0411852+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -3007,7 +3007,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>109963628865164131</CharacterEntityId>
+      <CharacterEntityId>130107436256894485</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
@@ -3421,7 +3421,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -3505,8 +3505,8 @@
             </Vector3>
             <Vector3>
               <X>0</X>
-              <Y>-1</Y>
-              <Z>1</Z>
+              <Y>-0.799999952</Y>
+              <Z>0.6</Z>
             </Vector3>
             <Vector3>
               <X>0</X>
@@ -3567,7 +3567,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -3625,7 +3625,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -3683,7 +3683,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -4070,7 +4070,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -4086,78 +4086,6 @@
               <HeadAngle x="0.43567872" y="-0.29045248" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.05</Y>
-              <Z>0.46</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>1</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
         </Value>
       </item>
       <item>
@@ -4239,7 +4167,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -4325,7 +4253,7 @@
             </Slots>
           </Toolbar>
           <CharacterCameraData EntityId="0">
-            <IsFirstPerson>false</IsFirstPerson>
+            <IsFirstPerson>true</IsFirstPerson>
             <Distance>1.3205642611141855</Distance>
             <HeadAngle x="18.9341164" y="0" />
           </CharacterCameraData>
@@ -4334,6 +4262,11 @@
               <IsFirstPerson>false</IsFirstPerson>
               <Distance>34.482550885179762</Distance>
               <HeadAngle x="47.1985245" y="-27.0120716" />
+            </CameraControllerSettings>
+            <CameraControllerSettings EntityId="119097526208013961">
+              <IsFirstPerson>true</IsFirstPerson>
+              <Distance>1.3205642611141855</Distance>
+              <HeadAngle x="-10" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
           <BuildColorSlots>
@@ -4796,9 +4729,9 @@
               <name>Body Location</name>
               <description>Last known body location</description>
               <coords>
-                <X>10116.4</X>
-                <Y>-58468.19</Y>
-                <Z>15590.87</Z>
+                <X>10035.57</X>
+                <Y>-58488.89</Y>
+                <Z>15563.42</Z>
               </coords>
               <isFinal>true</isFinal>
               <showOnHud>true</showOnHud>
@@ -4824,9 +4757,11 @@
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="10031.181458016912" Y="-58488.315531910383" Z="15569.670890028276" S="0" A="0" />
+        <Info X="10031.391911106944" Y="-58497.700549156805" Z="15593.406699600428" S="0" A="0" />
       </SpawnInfos>
-      <TimeoutInfos />
+      <TimeoutInfos>
+        <Info X="10075.453875279778" Y="-58504.947059897444" Z="15473.938122605803" T="0" />
+      </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
@@ -18088,6 +18023,186 @@
           <Key xsi:type="pair">
             <stm>90102758497420293</stm>
             <ser>159</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>1</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>2</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>3</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>4</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>5</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>6</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>7</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>8</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>9</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>10</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>11</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>12</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>13</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>14</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102771557369861</stm>
+            <ser>15</ser>
           </Key>
           <Value xsi:type="MyObjectBuilder_MissionTriggers">
             <WinTriggers />
