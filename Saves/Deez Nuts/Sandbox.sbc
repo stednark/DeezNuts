@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>991242720000</ElapsedGameTime>
+  <ElapsedGameTime>993241920000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-07-29T07:00:01.1395587+00:00</LastSaveTime>
+  <LastSaveTime>2016-07-30T07:00:01.0912093+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -3295,14 +3295,14 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>86362257121822354</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855875</IdentityId>
       <DisplayName>Villowz</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
+      <CharacterEntityId>81886754981790035</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.575" y="0.15" z="0.2" />
     </MyObjectBuilder_Identity>
@@ -3737,78 +3737,6 @@
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
         </Value>
       </item>
       <item>
@@ -5107,24 +5035,17 @@
           </Entries>
         </Value>
       </item>
-      <item>
-        <Key xsi:type="xsd:long">0</Key>
-        <Value xsi:type="MyObjectBuilder_Gps">
-          <Entries />
-        </Value>
-      </item>
     </dictionary>
   </Gps>
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="10048.346180732478" Y="-58487.902457574193" Z="15559.140812556878" S="0" A="0" />
-        <Info X="9789.7861565828171" Y="-58593.432154743059" Z="15612.406168363874" S="0" A="0" />
-        <Info X="9632.9064839505081" Y="-58649.190795995244" Z="15595.549407179222" S="0" A="0" />
-        <Info X="9469.8536394112089" Y="-58667.429822733015" Z="15568.986384294603" S="0" A="0" />
-        <Info X="9300.7650163643339" Y="-58648.211072733015" Z="15532.330866716478" S="0" A="0" />
+        <Info X="10030.960368739276" Y="-58486.610251718113" Z="15576.229131502263" S="0" A="0" />
       </SpawnInfos>
-      <TimeoutInfos />
+      <TimeoutInfos>
+        <Info X="10121.322401737418" Y="-58470.392395299736" Z="15577.583578307163" T="0" />
+        <Info X="9923.379591678824" Y="-58506.628303808036" Z="15570.992757994663" T="0" />
+      </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
@@ -21494,6 +21415,30 @@
           <Key xsi:type="pair">
             <stm>90102819012317187</stm>
             <ser>190</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102835466491911</stm>
+            <ser>1</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102835466491911</stm>
+            <ser>2</ser>
           </Key>
           <Value xsi:type="MyObjectBuilder_MissionTriggers">
             <WinTriggers />
