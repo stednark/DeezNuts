@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1003618560000</ElapsedGameTime>
+  <ElapsedGameTime>1028769600000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-01T07:00:01.0840625+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-02T07:00:01.1017352+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -3302,7 +3302,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855875</IdentityId>
       <DisplayName>Villowz</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
+      <CharacterEntityId>143789042671018669</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0.575" y="0.15" z="0.2" />
     </MyObjectBuilder_Identity>
@@ -4249,6 +4249,13 @@
                 </Data>
               </Slot>
               <Slot>
+                <Index>54</Index>
+                <Item />
+                <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
+                  <DefinitionId Type="MyObjectBuilder_Projector" Subtype="LargeProjector" />
+                </Data>
+              </Slot>
+              <Slot>
                 <Index>72</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
@@ -4301,7 +4308,7 @@
             <CameraControllerSettings EntityId="119097526208013961">
               <IsFirstPerson>false</IsFirstPerson>
               <Distance>11.535588665320473</Distance>
-              <HeadAngle x="15.2487545" y="0.580904961" />
+              <HeadAngle x="12.9251356" y="-1.59747839" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="87823941456785705">
               <IsFirstPerson>false</IsFirstPerson>
@@ -4309,6 +4316,78 @@
               <HeadAngle x="0.43567872" y="-0.29045248" />
             </CameraControllerSettings>
           </EntityCameraData>
+          <BuildColorSlots>
+            <Vector3>
+              <X>0</X>
+              <Y>-1</Y>
+              <Z>0</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>0</Y>
+              <Z>0.05</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.333333343</X>
+              <Y>-0.48</Y>
+              <Z>-0.25</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.575</X>
+              <Y>0</Y>
+              <Z>0</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.122222222</X>
+              <Y>-0.1</Y>
+              <Z>0.26</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.95</Y>
+              <Z>0.4</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.96</Y>
+              <Z>-0.5</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.85</Y>
+              <Z>0.2</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>0.15</Y>
+              <Z>0.25</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.333333343</X>
+              <Y>-0.329999983</Y>
+              <Z>-0.049999997</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.575</X>
+              <Y>0.15</Y>
+              <Z>0.2</Z>
+            </Vector3>
+            <Vector3>
+              <X>0.122222222</X>
+              <Y>0.0500000045</Y>
+              <Z>0.459999979</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.799999952</Y>
+              <Z>0.6</Z>
+            </Vector3>
+            <Vector3>
+              <X>0</X>
+              <Y>-0.809999943</Y>
+              <Z>-0.3</Z>
+            </Vector3>
+          </BuildColorSlots>
         </Value>
       </item>
       <item>
@@ -4955,13 +5034,18 @@
   </Gps>
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
-      <SpawnInfos />
-      <TimeoutInfos />
+      <SpawnInfos>
+        <Info X="10021.377603466855" Y="-58527.327533103577" Z="15577.107701593241" S="0" A="0" />
+      </SpawnInfos>
+      <TimeoutInfos>
+        <Info X="10126.821206982484" Y="-58463.831534721023" Z="15599.239537530742" T="0" />
+        <Info X="9936.2576999024059" Y="-58471.357257224685" Z="15695.273473077617" T="0" />
+      </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
-      <LastCoordSysId>7</LastCoordSysId>
+      <LastCoordSysId>8</LastCoordSysId>
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
@@ -21446,6 +21530,306 @@
           <Key xsi:type="pair">
             <stm>90102852069676035</stm>
             <ser>8</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>1</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>2</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>3</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>4</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>5</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>6</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>7</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>8</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>9</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>10</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>11</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>12</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>13</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>14</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>15</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>16</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>17</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>18</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>19</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>20</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>21</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>22</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>23</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>24</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90102887771481093</stm>
+            <ser>25</ser>
           </Key>
           <Value xsi:type="MyObjectBuilder_MissionTriggers">
             <WinTriggers />
