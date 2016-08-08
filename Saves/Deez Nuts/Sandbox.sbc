@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1790026880000</ElapsedGameTime>
+  <ElapsedGameTime>1792195360000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-08T07:10:52.8823419+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-08T13:50:53.2189435+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -62,7 +62,15 @@
     </Slots>
   </CharacterToolbar>
   <ControlledEntities>
-    <dictionary />
+    <dictionary>
+      <item>
+        <Key xsi:type="xsd:long">133765421391549635</Key>
+        <Value xsi:type="PlayerId">
+          <ClientId>76561198052357530</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+    </dictionary>
   </ControlledEntities>
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
@@ -6589,7 +6597,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
+      <CharacterEntityId>133765421391549635</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
@@ -6648,6 +6656,18 @@
       <ColorMask x="0.122" y="0.05" z="0.46" />
     </MyObjectBuilder_Identity>
   </Identities>
+  <Clients>
+    <MyObjectBuilder_Client>
+      <SteamId>90103031249326081</SteamId>
+      <Name>Server</Name>
+      <IsAdmin>true</IsAdmin>
+    </MyObjectBuilder_Client>
+    <MyObjectBuilder_Client>
+      <SteamId>76561198052357530</SteamId>
+      <Name>Tronald Dump</Name>
+      <IsAdmin>false</IsAdmin>
+    </MyObjectBuilder_Client>
+  </Clients>
   <PreviousEnvironmentHostility xsi:nil="true" />
   <AllPlayersData>
     <dictionary>
@@ -6659,7 +6679,7 @@
         <Value xsi:type="MyObjectBuilder_Player">
           <DisplayName>Tronald Dump</DisplayName>
           <IdentityId>144115188075855874</IdentityId>
-          <Connected>false</Connected>
+          <Connected>true</Connected>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -7101,7 +7121,7 @@
               <HeadAngle x="-9.149256" y="-87.28097" />
             </CameraControllerSettings>
             <CameraControllerSettings EntityId="143157182820130789">
-              <IsFirstPerson>false</IsFirstPerson>
+              <IsFirstPerson>true</IsFirstPerson>
               <Distance>53.910563005396405</Distance>
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
@@ -8633,14 +8653,11 @@
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="10272.275050629511" Y="-58697.330936856088" Z="15588.734706860012" S="0" A="0" />
-        <Info X="10059.525125193899" Y="-58479.7881471096" Z="15608.056038278202" S="0" A="0" />
+        <Info X="10051.834210955039" Y="-58481.152475049588" Z="15606.361602903402" S="7881" A="43109" />
       </SpawnInfos>
       <TimeoutInfos>
-        <Info X="10224.017537676231" Y="-58428.914083173368" Z="15662.856800199545" T="0" />
-        <Info X="10252.730138384239" Y="-58471.249845197293" Z="15485.307819486654" T="0" />
-        <Info X="9908.08118669429" Y="-58499.505907089078" Z="15609.233901090674" T="0" />
-        <Info X="10059.930238672687" Y="-58496.940308015517" Z="15515.136397041382" T="0" />
+        <Info X="9986.9152133237058" Y="-58508.4239653009" Z="15519.859142733067" T="149021" />
+        <Info X="10060.823606096641" Y="-58447.687085797879" Z="15701.121517301595" T="31431" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
@@ -8650,7 +8667,7 @@
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>21</EntityCount>
+          <EntityCount>22</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
@@ -36867,6 +36884,42 @@
           <Key xsi:type="pair">
             <stm>90103025661536265</stm>
             <ser>23</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90103031249326081</stm>
+            <ser>1</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90103031249326081</stm>
+            <ser>2</ser>
+          </Key>
+          <Value xsi:type="MyObjectBuilder_MissionTriggers">
+            <WinTriggers />
+            <LoseTriggers />
+            <Won>false</Won>
+            <Lost>false</Lost>
+          </Value>
+        </item>
+        <item>
+          <Key xsi:type="pair">
+            <stm>90103031249326081</stm>
+            <ser>3</ser>
           </Key>
           <Value xsi:type="MyObjectBuilder_MissionTriggers">
             <WinTriggers />
