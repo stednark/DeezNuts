@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1790023680000</ElapsedGameTime>
+  <ElapsedGameTime>1790025280000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-08T06:20:52.6912676+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-08T06:50:52.9755511+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -6589,7 +6589,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>133765421391549635</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
@@ -6636,7 +6636,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075856025</IdentityId>
       <DisplayName>[EAD] Mr. Robot</DisplayName>
-      <CharacterEntityId>141148101475241702</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.8" z="0.6" />
     </MyObjectBuilder_Identity>
@@ -7111,78 +7111,6 @@
               <HeadAngle x="0" y="0" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
         </Value>
       </item>
       <item>
@@ -8229,78 +8157,6 @@
               <HeadAngle x="24.8336849" y="-11.0371418" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
         </Value>
       </item>
     </dictionary>
@@ -8781,10 +8637,10 @@
         <Info X="10059.525125193899" Y="-58479.7881471096" Z="15608.056038278202" S="0" A="0" />
       </SpawnInfos>
       <TimeoutInfos>
-        <Info X="10224.017537676231" Y="-58428.914083173368" Z="15662.856800199545" T="6661" />
-        <Info X="10252.730138384239" Y="-58471.249845197293" Z="15485.307819486654" T="7431" />
+        <Info X="10224.017537676231" Y="-58428.914083173368" Z="15662.856800199545" T="0" />
+        <Info X="10252.730138384239" Y="-58471.249845197293" Z="15485.307819486654" T="0" />
         <Info X="9908.08118669429" Y="-58499.505907089078" Z="15609.233901090674" T="0" />
-        <Info X="10059.930238672687" Y="-58496.940308015517" Z="15515.136397041382" T="89239" />
+        <Info X="10059.930238672687" Y="-58496.940308015517" Z="15515.136397041382" T="0" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
@@ -8794,7 +8650,7 @@
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>19</EntityCount>
+          <EntityCount>20</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
