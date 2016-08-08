@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1771410400000</ElapsedGameTime>
+  <ElapsedGameTime>1772716960000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-08T05:30:53.0506052+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-08T05:40:53.0285726+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -62,7 +62,15 @@
     </Slots>
   </CharacterToolbar>
   <ControlledEntities>
-    <dictionary />
+    <dictionary>
+      <item>
+        <Key xsi:type="xsd:long">143157182820130789</Key>
+        <Value xsi:type="PlayerId">
+          <ClientId>76561198052357530</ClientId>
+          <SerialId>0</SerialId>
+        </Value>
+      </item>
+    </dictionary>
   </ControlledEntities>
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
@@ -6589,7 +6597,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>0</CharacterEntityId>
+      <CharacterEntityId>96065979214689155</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
@@ -6648,6 +6656,18 @@
       <ColorMask x="0.122" y="0.05" z="0.46" />
     </MyObjectBuilder_Identity>
   </Identities>
+  <Clients>
+    <MyObjectBuilder_Client>
+      <SteamId>90103025595330565</SteamId>
+      <Name>Server</Name>
+      <IsAdmin>true</IsAdmin>
+    </MyObjectBuilder_Client>
+    <MyObjectBuilder_Client>
+      <SteamId>76561198052357530</SteamId>
+      <Name>Tronald Dump</Name>
+      <IsAdmin>false</IsAdmin>
+    </MyObjectBuilder_Client>
+  </Clients>
   <PreviousEnvironmentHostility xsi:nil="true" />
   <AllPlayersData>
     <dictionary>
@@ -6659,7 +6679,7 @@
         <Value xsi:type="MyObjectBuilder_Player">
           <DisplayName>Tronald Dump</DisplayName>
           <IdentityId>144115188075855874</IdentityId>
-          <Connected>false</Connected>
+          <Connected>true</Connected>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -8638,11 +8658,9 @@
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="10071.721088596398" Y="-58478.098824969042" Z="15583.394738076571" S="0" A="0" />
+        <Info X="10052.126989715833" Y="-58480.978617047462" Z="15608.37285490533" S="57884" A="44899" />
       </SpawnInfos>
-      <TimeoutInfos>
-        <Info X="10022.124164768273" Y="-58510.689645281542" Z="15486.749230264071" T="0" />
-      </TimeoutInfos>
+      <TimeoutInfos />
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
@@ -8651,7 +8669,7 @@
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>17</EntityCount>
+          <EntityCount>18</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
