@@ -681,3 +681,32 @@
 2016-08-08 04:52:01.880 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
 2016-08-08 04:52:01.886 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreStoneCoverage.vx2'
 2016-08-08 04:52:01.922 - Thread:   6 ->  Game ready... Press Ctrl+C to exit
+2016-08-08 04:55:07.641 - Thread:   6 ->  Exiting..
+2016-08-08 04:55:07.644 - Thread:   6 ->  MySession::Unload START
+2016-08-08 04:55:07.644 - Thread:   6 ->  AutoSaveInMinutes: 20
+2016-08-08 04:55:07.644 - Thread:   6 ->  MySandboxGame.IsDedicated: True
+2016-08-08 04:55:07.644 - Thread:   6 ->  IsServer: True
+2016-08-08 04:55:07.644 - Thread:   6 ->  Autosave in unload
+2016-08-08 04:55:07.650 - Thread:   6 ->  Saving world - START
+2016-08-08 04:55:07.650 - Thread:   6 ->     Making world state snapshot.
+2016-08-08 04:55:07.650 - Thread:   6 ->     Before snapshot.: GC Memory: 1,376,940,792 B
+2016-08-08 04:55:08.151 - Thread:   6 ->     After snapshot.: GC Memory: 1,295,466,424 B
+2016-08-08 04:55:08.152 - Thread:   6 ->     Directory cleanup: GC Memory: 1,295,474,616 B
+2016-08-08 04:55:08.152 - Thread:   6 ->  Saving world - END
+2016-08-08 04:55:08.155 - Thread:   6 ->  Session snapshot save - START
+2016-08-08 04:55:08.155 - Thread:   6 ->     Checking file access for files in target dir.
+2016-08-08 04:55:09.357 - Thread:   6 ->  Session snapshot save - END
+2016-08-08 04:55:09.650 - Thread:   6 ->  MySunWind.UnloadData - START
+2016-08-08 04:55:09.650 - Thread:   6 ->  MySunWind.UnloadData - END
+2016-08-08 04:55:09.653 - Thread:   6 ->  Unloading Procedural World Generator
+2016-08-08 04:55:09.678 - Thread:   6 ->  Network readers disposed
+2016-08-08 04:55:09.894 - Thread:   6 ->  Network readers disposed
+2016-08-08 04:55:09.894 - Thread:   6 ->  Logging off Steam...
+2016-08-08 04:55:09.894 - Thread:   6 ->  Shutting down server...
+2016-08-08 04:55:10.019 - Thread:   6 ->  Done
+2016-08-08 04:55:10.035 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - START
+2016-08-08 04:55:10.097 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - END
+2016-08-08 04:55:10.300 - Thread:   6 ->  MySession::Unload END
+2016-08-08 04:55:10.300 - Thread:   6 ->  MySandboxGame.UnloadData() - START
+2016-08-08 04:55:10.300 - Thread:   6 ->  MySandboxGame.UnloadData() - END
+2016-08-08 04:55:10.582 - Thread:   6 ->  Log Closed
