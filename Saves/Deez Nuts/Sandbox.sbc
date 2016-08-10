@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1830015840000</ElapsedGameTime>
+  <ElapsedGameTime>1830017440000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-09T00:00:52.6320245+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-10T02:10:52.9883492+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -62,15 +62,7 @@
     </Slots>
   </CharacterToolbar>
   <ControlledEntities>
-    <dictionary>
-      <item>
-        <Key xsi:type="xsd:long">137491863821419636</Key>
-        <Value xsi:type="PlayerId">
-          <ClientId>76561198079798078</ClientId>
-          <SerialId>0</SerialId>
-        </Value>
-      </item>
-    </dictionary>
+    <dictionary />
   </ControlledEntities>
   <Settings xsi:type="MyObjectBuilder_SessionSettings">
     <GameMode>Survival</GameMode>
@@ -6644,7 +6636,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075856025</IdentityId>
       <DisplayName>[EAD] Mr. Robot</DisplayName>
-      <CharacterEntityId>137491863821419636</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.8" z="0.6" />
     </MyObjectBuilder_Identity>
@@ -6656,18 +6648,6 @@
       <ColorMask x="0.122" y="0.05" z="0.46" />
     </MyObjectBuilder_Identity>
   </Identities>
-  <Clients>
-    <MyObjectBuilder_Client>
-      <SteamId>90103042949456899</SteamId>
-      <Name>Server</Name>
-      <IsAdmin>true</IsAdmin>
-    </MyObjectBuilder_Client>
-    <MyObjectBuilder_Client>
-      <SteamId>76561198079798078</SteamId>
-      <Name>[EAD] Mr. Robot</Name>
-      <IsAdmin>false</IsAdmin>
-    </MyObjectBuilder_Client>
-  </Clients>
   <PreviousEnvironmentHostility xsi:nil="true" />
   <AllPlayersData>
     <dictionary>
@@ -6679,7 +6659,7 @@
         <Value xsi:type="MyObjectBuilder_Player">
           <DisplayName>[EAD] Mr. Robot</DisplayName>
           <IdentityId>144115188075856025</IdentityId>
-          <Connected>true</Connected>
+          <Connected>false</Connected>
           <Toolbar>
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
@@ -8653,11 +8633,11 @@
   <SessionComponents>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpaceFaunaComponent">
       <SpawnInfos>
-        <Info X="9998.247864347928" Y="-58525.991861055591" Z="15561.546236606056" S="24472" A="43996" />
+        <Info X="9998.247864347928" Y="-58525.991861055591" Z="15561.546236606056" S="0" A="0" />
       </SpawnInfos>
       <TimeoutInfos>
-        <Info X="9933.245178801053" Y="-58474.8122956259" Z="15684.772799106056" T="85842" />
-        <Info X="10121.240232418355" Y="-58478.456785289942" Z="15546.559379564265" T="175828" />
+        <Info X="9933.245178801053" Y="-58474.8122956259" Z="15684.772799106056" T="0" />
+        <Info X="10121.240232418355" Y="-58478.456785289942" Z="15546.559379564265" T="0" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
@@ -8667,7 +8647,7 @@
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>26</EntityCount>
+          <EntityCount>27</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
