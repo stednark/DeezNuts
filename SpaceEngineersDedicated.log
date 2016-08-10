@@ -1,675 +1,675 @@
-2016-08-10 02:01:45.366 - Thread:   6 ->  Log Started
-2016-08-10 02:01:45.382 - Thread:   6 ->  Timezone (local - UTC): 0h
-2016-08-10 02:01:45.382 - Thread:   6 ->  App Version: 01_140_007
-2016-08-10 02:01:45.382 - Thread:   6 ->  Steam build: Always true
-2016-08-10 02:01:45.382 - Thread:   6 ->  Is official: True [NO][IS][NAMP]
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.ProcessorCount: 2
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.OSVersion: Microsoft Windows NT 6.2.9200.0
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.CommandLine: "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\DedicatedServer64\SpaceEngineersDedicated.exe"
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.Is64BitProcess: True
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.Is64BitOperatingSystem: True
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.Version: 4.6.1 or later (394271)
-2016-08-10 02:01:45.382 - Thread:   6 ->  Environment.CurrentDirectory: C:\Windows\system32
-2016-08-10 02:01:45.382 - Thread:   6 ->  MainAssembly.ProcessorArchitecture: Amd64
-2016-08-10 02:01:45.382 - Thread:   6 ->  ExecutingAssembly.ProcessorArchitecture: Amd64
-2016-08-10 02:01:45.382 - Thread:   6 ->  IntPtr.Size: 8
-2016-08-10 02:01:45.382 - Thread:   6 ->  Default Culture: 
-2016-08-10 02:01:45.382 - Thread:   6 ->  Default UI Culture: 
-2016-08-10 02:01:45.382 - Thread:   6 ->  IsAdmin: True
-2016-08-10 02:01:46.538 - Thread:   6 ->  MySandboxGame.Constructor() - START
-2016-08-10 02:01:46.554 - Thread:   6 ->     Game dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\DedicatedServer64
-2016-08-10 02:01:46.554 - Thread:   6 ->     Content dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content
-2016-08-10 02:01:46.554 - Thread:   6 ->     Found processor count: 2
-2016-08-10 02:01:46.554 - Thread:   6 ->     Using processor count: 2
-2016-08-10 02:01:47.585 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - START
-2016-08-10 02:01:47.600 - Thread:   6 ->        f7c90666cc87170a513170c72773f28a4c9e4561
-2016-08-10 02:01:47.975 - Thread:   6 ->        Loading scenarios
-2016-08-10 02:01:48.038 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - END
-2016-08-10 02:01:48.038 - Thread:   6 ->     542b5acf1fe908bd776975822a1f3b54e0e6c85c
-2016-08-10 02:01:48.054 - Thread:   6 ->     Preallocate - START
-2016-08-10 02:01:48.054 - Thread:   6 ->        MySpaceBuildComponent - START
-2016-08-10 02:01:48.054 - Thread:   6 ->        MySpaceBuildComponent - END
-2016-08-10 02:01:48.054 - Thread:   6 ->        MySpaceWorldGenerator - START
-2016-08-10 02:01:48.054 - Thread:   6 ->        MySpaceWorldGenerator - END
-2016-08-10 02:01:48.054 - Thread:   6 ->        MyEntities - START
-2016-08-10 02:01:48.100 - Thread:   6 ->        MyEntities - END
-2016-08-10 02:01:48.100 - Thread:   6 ->        MyObjectBuilder_Base - START
-2016-08-10 02:01:48.100 - Thread:   6 ->        MyObjectBuilder_Base - END
-2016-08-10 02:01:48.100 - Thread:   6 ->        MyTransparentGeometry - START
-2016-08-10 02:01:48.147 - Thread:   6 ->        MyTransparentGeometry - END
-2016-08-10 02:01:48.147 - Thread:   6 ->        MyCubeGridDeformationTables - START
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyCubeGridDeformationTables - END
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyMath - START
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyMath - END
-2016-08-10 02:01:48.163 - Thread:   6 ->        MySimpleObjectDraw - START
-2016-08-10 02:01:48.163 - Thread:   6 ->        MySimpleObjectDraw - END
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyDefinitionManager - START
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyDefinitionManager - END
-2016-08-10 02:01:48.163 - Thread:   6 ->        MyCubeGridDefinitions - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyCubeGridDefinitions - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyAIActionsParser - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyAIActionsParser - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerBase - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerBase - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerServerBase - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerServerBase - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyDedicatedServerBase - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyDedicatedServerBase - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyDedicatedServerBattle - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyDedicatedServerBattle - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerLobbyClient - START
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyMultiplayerLobbyClient - END
-2016-08-10 02:01:48.210 - Thread:   6 ->        MyServerDebugCommands - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyServerDebugCommands - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyMultiplayerClient - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyMultiplayerClient - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyMultiplayerLobby - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyMultiplayerLobby - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyDedicatedServer - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyDedicatedServer - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyAiTargetManager - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyAiTargetManager - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyEntityComponentsDebugDraw - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyEntityComponentsDebugDraw - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyChatHistory - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyChatHistory - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MySyncDestructions - START
-2016-08-10 02:01:48.257 - Thread:   6 ->        MySyncDestructions - END
-2016-08-10 02:01:48.257 - Thread:   6 ->        MyGuiIngameScriptsPage - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyGuiIngameScriptsPage - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyGuiScreenAdminMenu - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyGuiScreenAdminMenu - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandCharacter - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandCharacter - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandConsole - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandConsole - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandEntity - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MyCommandEntity - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MySyncScenario - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MySyncScenario - END
-2016-08-10 02:01:48.304 - Thread:   6 ->        MySyncEntity - START
-2016-08-10 02:01:48.304 - Thread:   6 ->        MySyncEntity - END
-2016-08-10 02:01:48.304 - Thread:   6 ->     Preallocate - END
-2016-08-10 02:01:48.350 - Thread:   6 ->     Bind IP : 0.0.0.0:27016
-2016-08-10 02:03:07.153 - Thread:   6 ->     Server successfully started
-2016-08-10 02:03:07.153 - Thread:   6 ->     Product name: Space Engineers
-2016-08-10 02:03:07.153 - Thread:   6 ->     Desc: Space Engineers
-2016-08-10 02:03:07.153 - Thread:   6 ->     Public IP: 52.206.184.109
-2016-08-10 02:03:07.153 - Thread:   6 ->     Steam ID: 90103060704405513
-2016-08-10 02:03:07.172 - Thread:   6 ->  MySandboxGame.Constructor() - END
-2016-08-10 02:03:07.173 - Thread:   6 ->  MySandboxGame.Initialize() - START
-2016-08-10 02:03:07.205 - Thread:   6 ->     MyGuiGameControlsHelpers()
-2016-08-10 02:03:07.326 - Thread:   6 ->     HkGameName: SpaceEngineers Release
-2016-08-10 02:03:07.364 - Thread:   6 ->     MySandboxGame.LoadData() - START
-2016-08-10 02:03:07.365 - Thread:   6 ->        MyDefinitionManager.PreloadDefinitions() - START
-2016-08-10 02:03:07.612 - Thread:   5 ->  MyDefinitionManager.PrepareBaseDefinitions() - START
-2016-08-10 02:03:07.632 - Thread:   6 ->        MyDefinitionManager.PreloadDefinitions() - END
-2016-08-10 02:03:07.637 - Thread:   5 ->     088c27d7ef805fd11d6ef606757f33e986f346a4
-2016-08-10 02:03:07.682 - Thread:   5 ->     de45db564c8694e17cddcd01a7792f501480ea9c
-2016-08-10 02:03:07.725 - Thread:   6 ->     MySandboxGame.LoadData() - END
-2016-08-10 02:03:07.767 - Thread:   5 ->     cc281ea2f76eb4090580571f474a0033652cfda3
-2016-08-10 02:03:07.917 - Thread:   5 ->     e2bb8ed6fed42a7d4f29e49b8dbbddad651cf6f3
-2016-08-10 02:03:07.953 - Thread:   5 ->     4c777aa77203789de710ff7c1ff8a619a9c1dfb3
-2016-08-10 02:03:07.965 - Thread:   5 ->     ff455d4ed9aa55bb5f5c0e9739ae1102bec9d5bf
-2016-08-10 02:03:08.034 - Thread:   5 ->     a990ae78d2c1ef65ee3993334e9324b83b1af32a
-2016-08-10 02:03:08.230 - Thread:   5 ->     9313f318436ef33c3ff711a3c7210ffa46603b12
-2016-08-10 02:03:08.251 - Thread:   5 ->     c9a5cbc3723208791d155f4ca7b9e9b248d520ae
-2016-08-10 02:03:08.270 - Thread:   5 ->     216b8ed3bc57a91e86c70877433f4ea5dcf07be0
-2016-08-10 02:03:08.300 - Thread:   5 ->     8c7e0f0f022e123fd04c03e565e3f40b9998b898
-2016-08-10 02:03:08.316 - Thread:   5 ->     d49fd41d26de1ec5fbff778cae34286566deedaa
-2016-08-10 02:03:08.347 - Thread:   5 ->     de99ce34a0bfa8d287a7df96d08827d2d48e92d0
-2016-08-10 02:03:08.357 - Thread:   5 ->     ac83a74d9a56664750af470fb40537d00057e05d
-2016-08-10 02:03:08.413 - Thread:   5 ->     3718ae644e957989b6ecf5ec55630d2a8730e180
-2016-08-10 02:03:08.423 - Thread:   5 ->     7a1c68a0cc020d7bb3ee1b1711dd7cac9e640971
-2016-08-10 02:03:08.440 - Thread:   5 ->     8ce42f3ecbf0c4f2f63cbefc5bb97841e72ccef2
-2016-08-10 02:03:08.528 - Thread:   5 ->     b916fbb72b90ef2caad80659ce7ae447ccfe3a67
-2016-08-10 02:03:08.537 - Thread:   5 ->     bdc5b0b468d6ef47ca02469aeca70e0e84e5d6d8
-2016-08-10 02:03:08.555 - Thread:   5 ->     ef26203e9e51cef777ff179bc491c388cc4d00ce
-2016-08-10 02:03:08.567 - Thread:   5 ->     db1f963639beae34a4c783eccec4da264e1188d6
-2016-08-10 02:03:08.601 - Thread:   5 ->     cf940e7ffbb94fc8d3c11e692d7aa0d308c3bc80
-2016-08-10 02:03:08.813 - Thread:   6 ->     Downloading world mods - START
-2016-08-10 02:03:08.813 - Thread:   6 ->     Downloading world mods - END
-2016-08-10 02:03:08.893 - Thread:   6 ->     Loading session: C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts
-2016-08-10 02:03:11.579 - Thread:   5 ->     f5ab47ced7d6a09120432fbaada2d0111c7e4815
-2016-08-10 02:03:11.589 - Thread:   5 ->     bfa2970ea33dc23a012e0415f74c2fedefeba136
-2016-08-10 02:03:11.600 - Thread:   5 ->     8868e2640ddb056fa2419d4e5d794ffffa15c6bc
-2016-08-10 02:03:11.613 - Thread:   5 ->     4f69c45893080175acf9bc08045dfdda94c7783b
-2016-08-10 02:03:11.626 - Thread:   5 ->     4a13a13bafb016c4743240b3ade62af0f434aadb
-2016-08-10 02:03:11.636 - Thread:   5 ->     59b4b59b880486a037ad314e0a440652c27355a9
-2016-08-10 02:03:11.673 - Thread:   5 ->     a7bdd59f9605c1bc1c63f414c4a383e8d89796cb
-2016-08-10 02:03:11.686 - Thread:   5 ->     7a6341e9ea35365e98b6dedc6121a2f8cb13961f
-2016-08-10 02:03:11.706 - Thread:   5 ->     d8dd11a4cbba19f2de4f6461f6621fa55b7c9868
-2016-08-10 02:03:11.731 - Thread:   5 ->     07dc0539cf995d6a7321c360fab5877d288710ec
-2016-08-10 02:03:11.738 - Thread:   5 ->     f5875feb6ad600c4de928f82238502bbfd9f8be0
-2016-08-10 02:03:11.742 - Thread:   5 ->     e40ad0414fbd78a0e3b444b68a4f188ed05bcabb
-2016-08-10 02:03:11.751 - Thread:   5 ->     41bbade89f01bee5a9e3e2354a9d8aa7653f5944
-2016-08-10 02:03:11.776 - Thread:   5 ->     9926d62f66cfe9569aafb19902599a185c4f52a9
-2016-08-10 02:03:11.867 - Thread:   5 ->     75c4bad7baecb911dd8b2646a04ced896f17c3b5
-2016-08-10 02:03:11.876 - Thread:   5 ->     ce4c66a418cd04ac5694a46a2df4759b0819acfd
-2016-08-10 02:03:11.956 - Thread:   5 ->     910883faa39e53f39656747baa2c24d021d64d65
-2016-08-10 02:03:12.160 - Thread:   5 ->     513027b2b8e9aebf5f92f83eaeffc4680fbdef6d
-2016-08-10 02:03:12.211 - Thread:   5 ->     222511ccfc99373373c23b576982b283cda79ce0
-2016-08-10 02:03:12.223 - Thread:   5 ->     f884b0daed96f88375bf646e2efa07ad4daa3c9f
-2016-08-10 02:03:12.240 - Thread:   5 ->     d54bc7f0caa8897063c0d4784b268c88ee6df648
-2016-08-10 02:03:12.389 - Thread:   5 ->     aa6baf1f6fbde16f746c7f626567786127d3ee7d
-2016-08-10 02:03:12.394 - Thread:   5 ->     200fd0ed4ad25dc8dc84c04198a12c7c482000d2
-2016-08-10 02:03:12.402 - Thread:   5 ->     ce75856800d7cabb2adb82160cc3c1f558c639f1
-2016-08-10 02:03:12.410 - Thread:   5 ->     fa1260a424fb01147d3bb1f096b5a9a94b44bcc9
-2016-08-10 02:03:12.432 - Thread:   5 ->     653e13beec9abba6080cf12d1f08c6c7b3ac86e7
-2016-08-10 02:03:12.442 - Thread:   5 ->     85b8989274346f54b936b41f6d875a4c7116c922
-2016-08-10 02:03:12.478 - Thread:   5 ->     f59fffb72a5c03c9b1ee75bb852a692e51e13c80
-2016-08-10 02:03:12.483 - Thread:   5 ->     3fbf4c300e19e0a567474b45fa217784acb582e3
-2016-08-10 02:03:12.495 - Thread:   5 ->     6ea68d3f938e74330f429e1a7ceaa70056110cd7
-2016-08-10 02:03:12.540 - Thread:   5 ->     dbdf957e32888152a1653d09737839f330520b8d
-2016-08-10 02:03:12.559 - Thread:   5 ->     d93aaaa67e101b53bfea2baa78d5ab19caa6a871
-2016-08-10 02:03:12.563 - Thread:   5 ->     b1844954cc735d5ab63d443bb31f81556b3931d8
-2016-08-10 02:03:12.597 - Thread:   5 ->     673aa2d47c4a54e69d13e2b594c1b45fb88c841c
-2016-08-10 02:03:12.618 - Thread:   5 ->     c93a4c0f02ae288ed21525c26c8f5da49bbb30c9
-2016-08-10 02:03:12.658 - Thread:   5 ->     2810f5173cb20aced23bdaf245d3533c44e8d526
-2016-08-10 02:03:12.680 - Thread:   5 ->     9359992e801b5a2c4b0e42ec7a5741aa3fe241d8
-2016-08-10 02:03:12.725 - Thread:   5 ->     6f9adeaa43f52a30e1a667a3d77188327dac62ef
-2016-08-10 02:03:12.728 - Thread:   5 ->     a37a1c96357efdb7fe8e7d8395f84618a4838077
-2016-08-10 02:03:12.732 - Thread:   5 ->     7ee43616150bce6b444fcdb5a31570cbcc814821
-2016-08-10 02:03:12.764 - Thread:   5 ->     f7f31f88c25f34eb283016519ee8c0c0a94b5998
-2016-08-10 02:03:12.843 - Thread:   5 ->     cf8c17ad0ba6577b8893b6308753b5db733f4e61
-2016-08-10 02:03:12.900 - Thread:   5 ->     2095a8590796332100e671e64395f31fe370b62f
-2016-08-10 02:03:12.916 - Thread:   5 ->     68f00e474bf03ccbfb38ea3129a17fbcfebf2bd7
-2016-08-10 02:03:12.996 - Thread:   5 ->     e4e00ac09d214dc844b05668cc9a622ee471c5b3
-2016-08-10 02:03:13.061 - Thread:   5 ->     ced67d92840b85eb87f8643869af79c76b2c2656
-2016-08-10 02:03:13.077 - Thread:   5 ->     6a40587a509ded827dad3b9eaa85c38c284219f1
-2016-08-10 02:03:13.082 - Thread:   5 ->     218e5941772aa15266de761e6b42bddf50930199
-2016-08-10 02:03:13.086 - Thread:   5 ->     38078210faf81ec68266db063364e0a1f135219c
-2016-08-10 02:03:13.089 - Thread:   5 ->     de86683e2e675a1933b9cf728963273abbd8701d
-2016-08-10 02:03:13.092 - Thread:   5 ->     c8846a3e2c011fb146c2d10a4a38ebdcc28d5c6c
-2016-08-10 02:03:13.095 - Thread:   5 ->     122c0be2561319f54c3595536775678d53d17eff
-2016-08-10 02:03:13.098 - Thread:   5 ->     90e9c936323ad9b95ada7eb8a1df8eb7b28fcad8
-2016-08-10 02:03:13.101 - Thread:   5 ->     cfdb54d9662c334224f745a85d0e112cfb2fddbe
-2016-08-10 02:03:13.105 - Thread:   5 ->     b8ba05015639050d4b4b6d1d4dabd445321dcc88
-2016-08-10 02:03:13.131 - Thread:   5 ->     9de43b864a3d64cdbedb6b9c2f3b9236ba259cab
-2016-08-10 02:03:13.148 - Thread:   5 ->     1e917abea7d622014771d46733dd9fc2c0321ea1
-2016-08-10 02:03:13.161 - Thread:   5 ->     3ac7931c0dbb78b93e6a4713bc48ff5c73e90ac7
-2016-08-10 02:03:13.173 - Thread:   5 ->     bad5728ed673e429194f299dd858c51f649635a4
-2016-08-10 02:03:13.198 - Thread:   5 ->     10e6c2a7763710bd31acb3f514c6c473eee71b02
-2016-08-10 02:03:13.217 - Thread:   5 ->     85089b19211654f3392bf3c1f0d542e8c6168240
-2016-08-10 02:03:13.221 - Thread:   5 ->     848d0a6bdd573c7ee1b2f01ae788969d8a195410
-2016-08-10 02:03:13.226 - Thread:   5 ->     9d0c49d3d5cdc8eae152cb880875f0e842f02050
-2016-08-10 02:03:13.231 - Thread:   5 ->     f50e9af8ae978270da0724180b6dd3f41de2c3e0
-2016-08-10 02:03:13.238 - Thread:   5 ->     2014585128a4e610a67850c0d074b698f52fad26
-2016-08-10 02:03:13.243 - Thread:   5 ->     20c8a521d21ec62b8704800e8ca9cfbf6a7ce633
-2016-08-10 02:03:13.281 - Thread:   5 ->     4b3008a5bf90b515f845b8dbae38d3d83d8dc47b
-2016-08-10 02:03:13.312 - Thread:   5 ->     dee1cbe7368413c488fd1588a34e2c246cda4075
-2016-08-10 02:03:13.322 - Thread:   5 ->     a5f1ad12f017868689cd87654896b43b78452ec1
-2016-08-10 02:03:13.328 - Thread:   5 ->     e0565f064b2fe2d3be0d0f8af89ed3a0f8ec043d
-2016-08-10 02:03:13.331 - Thread:   5 ->     2565a221e822bbc5440dd5c199fbbab69fe5fb24
-2016-08-10 02:03:13.343 - Thread:   5 ->     3184363ca62134abe4331946f9827e70997b1c97
-2016-08-10 02:03:13.363 - Thread:   5 ->     4f53d6221c776d3c81492a219108a17b8e108c4c
-2016-08-10 02:03:13.393 - Thread:   5 ->     d71173a4df2a97d758e10c5848c26e04c09a579d
-2016-08-10 02:03:13.410 - Thread:   5 ->     720b176a1cb5e38e94459e3a7bab1ed3436da027
-2016-08-10 02:03:13.422 - Thread:   5 ->     fdd5411b6fdbb82af48c88a353e81b71c85af7b1
-2016-08-10 02:03:13.430 - Thread:   5 ->     ff1f0220008c1c6ca3d3a96b230bf7afd64e804b
-2016-08-10 02:03:13.433 - Thread:   5 ->     0ec3cef52ea811f1516993453a3c72e25fafb1ba
-2016-08-10 02:03:13.440 - Thread:   5 ->     620545da507501a55bc81dd9126a4cfe493dc953
-2016-08-10 02:03:13.507 - Thread:   5 ->     7bef96d6d5141e798511628642b7e40c97c15447
-2016-08-10 02:03:13.533 - Thread:   5 ->     dce34207b35248d39b16dd9ba9dd5f824a7b16f2
-2016-08-10 02:03:13.545 - Thread:   5 ->     f37b34f0734d84fa33edc7c0e893a139ef074786
-2016-08-10 02:03:13.564 - Thread:   5 ->     f2117b494dda495dfeafc5901cc105733c972ef7
-2016-08-10 02:03:13.585 - Thread:   5 ->     56dcb4045cde7b2ea80c879b5e3f2fd9b1414b5e
-2016-08-10 02:03:13.627 - Thread:   5 ->     04c8128089d69534d8b389cd96bc7b07d48bed1c
-2016-08-10 02:03:13.646 - Thread:   5 ->     185d663dbf9339ad2e86c9e8ba7223adcb212a57
-2016-08-10 02:03:13.655 - Thread:   5 ->     3322ac65ef808ec408d1596108e181abd2e08414
-2016-08-10 02:03:13.671 - Thread:   5 ->     a4a8a4b74a73adfd000029a6bab4682de126e3d1
-2016-08-10 02:03:13.698 - Thread:   5 ->     4d7394e1c96cfa89e4f1723753d193be90a4c32d
-2016-08-10 02:03:13.713 - Thread:   5 ->     e2b4397c4ba4eb432a80a04f5cc003c60f1e159c
-2016-08-10 02:03:13.719 - Thread:   5 ->     835f03d2736abca1733a8e6a84a7170d9325e00b
-2016-08-10 02:03:13.723 - Thread:   5 ->     956ee31e1ec43c84e65658e0aa5b44cfbb539a6f
-2016-08-10 02:03:13.729 - Thread:   5 ->     769a84e61e4d6030398c187b769bba3b132bc2f6
-2016-08-10 02:03:13.736 - Thread:   5 ->     fd4f2a183a6a0e24d51bcb199aa8f1deded72ad7
-2016-08-10 02:03:13.830 - Thread:   6 ->     GC Memory: 129,932,864 B
-2016-08-10 02:03:13.832 - Thread:   6 ->     Process Memory: 243,507,200 B
-2016-08-10 02:03:13.842 - Thread:   5 ->     2336b10986aa7374a5496f520a526286848a0118
-2016-08-10 02:03:13.844 - Thread:   6 ->     MyScriptManager.LoadData() - START
-2016-08-10 02:03:13.866 - Thread:   5 ->     5376838b74f0a0d0f1d72d8e3539fd2c55df908f
-2016-08-10 02:03:13.888 - Thread:   5 ->     07ca7badf2ca86a083cd10662ad344ff853a3eea
-2016-08-10 02:03:13.905 - Thread:   5 ->     3e6f6d4e74d37b450d27d17eaee249ef0620fbe5
-2016-08-10 02:03:13.912 - Thread:   5 ->     e8e73e00cb2087a988c3e2f5ede4f5d86f85496d
-2016-08-10 02:03:13.916 - Thread:   5 ->     5da422e601f17ad3a693bcd68d2ccb2998b8c59b
-2016-08-10 02:03:13.920 - Thread:   5 ->     a5d5a9586d691d69a59c220d031ea7ea9ab0fc08
-2016-08-10 02:03:13.928 - Thread:   5 ->     5ffaba233eb0a8d78ec98c0809964451b13dd10a
-2016-08-10 02:03:13.941 - Thread:   5 ->     4c3f88977ca24319f84fd21bd9ae9c603d68f909
-2016-08-10 02:03:13.960 - Thread:   5 ->     44022be82003195e8eb3ed3e8da691031fb57bad
-2016-08-10 02:03:13.980 - Thread:   5 ->     5da8caf3fd581e01d8e014c0bce07bae1c0aee9e
-2016-08-10 02:03:14.003 - Thread:   5 ->     4bccce2b87501dfa41b64448157e2d1b0d51d369
-2016-08-10 02:03:14.024 - Thread:   5 ->     88eb50064ff88789f9de02ad1211bd1f610bacad
-2016-08-10 02:03:14.055 - Thread:   5 ->     f5ea23c39daf4730f1b186fbd7c33cc6323fdd5d
-2016-08-10 02:03:14.068 - Thread:   5 ->     3f9dbf3751adef8bff9833378ab726e9b4a47f22
-2016-08-10 02:03:14.076 - Thread:   5 ->     c22dcd8ac78de066ab91464f44c237abb1923935
-2016-08-10 02:03:14.082 - Thread:   6 ->        Script loaded: _StatLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:14.082 - Thread:   6 ->     MyScriptManager.LoadData() - END
-2016-08-10 02:03:14.086 - Thread:   5 ->     c6ed857bf8c6fbb81327e868643799fe42c58219
-2016-08-10 02:03:14.088 - Thread:   6 ->     MyDefinitionManager.LoadData() - START
-2016-08-10 02:03:14.115 - Thread:   5 ->     83d2902c2bab88bdc86dc14a624a5dde7749b07f
-2016-08-10 02:03:14.133 - Thread:   5 ->     84aa1c647fc83b61b792cc19fb96f2fae51612b6
-2016-08-10 02:03:14.144 - Thread:   5 ->     f4e87b75ab4a286b62e5b4f14661ecad846552ab
-2016-08-10 02:03:14.151 - Thread:   5 ->     4497aa0fd08d9e68ae9f50e9c213ecf4d146a2ba
-2016-08-10 02:03:14.159 - Thread:   5 ->     2611aa9c9d08151123f5b00116b36bd31bb1cb67
-2016-08-10 02:03:14.174 - Thread:   5 ->     c482f6275df7c278580215fa0505480e64172088
-2016-08-10 02:03:14.184 - Thread:   5 ->     3747211e960982a5b0ca7f72586d79f5e252fa54
-2016-08-10 02:03:14.188 - Thread:   5 ->     7c47519135741ac1e89ec1589d2b3039ea97dc26
-2016-08-10 02:03:14.192 - Thread:   5 ->     69c1e2ba8966943be2c8eb7f876b9280c347f079
-2016-08-10 02:03:14.203 - Thread:   5 ->     c83f4e1cea16398734789cffe47f4f2fdaa0f9f8
-2016-08-10 02:03:14.213 - Thread:   5 ->     708d43b2697a8f8b4d9e154327f385c552deab85
-2016-08-10 02:03:14.215 - Thread:   5 ->     45cded885b1fb3a076117637821ea824593af6cb
-2016-08-10 02:03:14.239 - Thread:   5 ->     f2f2274ba5c88389781490a57df951ed54b2e734
-2016-08-10 02:03:14.254 - Thread:   5 ->     7b0f97cb9b873b24e4cdacd9e9d109a4c788d132
-2016-08-10 02:03:14.255 - Thread:   5 ->     ac2ca58fcc9849b24967a8c717b4496cf344d08e
-2016-08-10 02:03:14.256 - Thread:   5 ->     3f30958b74c239539738f69178fdb864eaa73989
-2016-08-10 02:03:14.257 - Thread:   5 ->     7369885e1977ef65ac5fdbf1eb865a105bae9476
-2016-08-10 02:03:14.258 - Thread:   5 ->     b00c9f6f5ce1822a52cf688c90451ff44a46975c
-2016-08-10 02:03:14.259 - Thread:   5 ->     be6dc88dbebb07f5449fb5f5c066c16a71b8f446
-2016-08-10 02:03:14.261 - Thread:   5 ->     9f8a7b6957dda1fa14d34fab04bd629f44f0a071
-2016-08-10 02:03:14.262 - Thread:   5 ->     2fef485506dbe14e394143a055a8360fc072954d
-2016-08-10 02:03:14.314 - Thread:   5 ->     b4842e0156b9cd3e0b79082f6887e050aec410b7
-2016-08-10 02:03:14.356 - Thread:   5 ->     a6634aee6fd647052a3986fd79cd9bba0e4f31d2
-2016-08-10 02:03:14.376 - Thread:   5 ->     3dde689106b953897a602a743219ff34cabe94ab
-2016-08-10 02:03:14.397 - Thread:   5 ->     f052b888d98de1dc0200ff24b68bfde5cddb1b36
-2016-08-10 02:03:14.407 - Thread:   5 ->     60075d49e357af30d719d7262db867cfdd1b1ca2
-2016-08-10 02:03:14.425 - Thread:   5 ->     b795c354d2063afd0f33b458923951622c28510d
-2016-08-10 02:03:14.522 - Thread:   5 ->     630ad3834ef8c6d0cac16fe1216c1caed06ace53
-2016-08-10 02:03:14.618 - Thread:   5 ->     2deac51ed75467f0b2a1397c17a3005f2f85e78c
-2016-08-10 02:03:14.701 - Thread:   5 ->     4ee1269becac5bde3cbae1f18ecb8d732998e0e2
-2016-08-10 02:03:14.749 - Thread:   5 ->     b637c96ea5d685609e169023e29710c61b7dd566
-2016-08-10 02:03:14.781 - Thread:   5 ->     50fe03825237c4f7b0800ddf3422cfe85d8099f4
-2016-08-10 02:03:14.813 - Thread:   5 ->     8114d7c36428453aa3bb288f07e8951cbcd10424
-2016-08-10 02:03:14.823 - Thread:   5 ->     a33b7b3c4c1ee2606309fcb2cf0041bb43df1535
-2016-08-10 02:03:14.824 - Thread:   5 ->     7b794be4d6c57ad1bdc99aa7dfa3845f8474f8ef
-2016-08-10 02:03:14.873 - Thread:   5 ->     5efcceb32cc693110b3377ea2c6ff5d85e75b543
-2016-08-10 02:03:14.913 - Thread:   5 ->     5dba68fbfc2e86d787e278815569fb1c518fc183
-2016-08-10 02:03:14.922 - Thread:   5 ->     3231c26bc7546a37ad88508eb04132e80f73454b
-2016-08-10 02:03:14.935 - Thread:   5 ->     8c896950f321e9fe61e4cece26678353a627a08d
-2016-08-10 02:03:14.956 - Thread:   5 ->     d24638fae3100cd39cd082e814ae8e21dafba7e1
-2016-08-10 02:03:14.970 - Thread:   5 ->     db011d01b8789792d4a750e0b486eb08f81abdf6
-2016-08-10 02:03:14.977 - Thread:   5 ->     75d2bebc710c496258e35a54c0cd9030aff07d32
-2016-08-10 02:03:14.982 - Thread:   5 ->     e5187619d993c89162823fd0c0be1b47b8fb752d
-2016-08-10 02:03:14.990 - Thread:   5 ->     b01a9f9d74cb6e5e531b26b9d1f86c8bc9bcf426
-2016-08-10 02:03:15.001 - Thread:   5 ->     d47a7fcc8ae6c5bf95f6a61b43900a265be2f394
-2016-08-10 02:03:15.004 - Thread:   5 ->     598d875110b6cfe2a451a123bd9370073147e062
-2016-08-10 02:03:15.009 - Thread:   5 ->     c11e5e4f178754cedd9c5128f52403bbf12fa1e5
-2016-08-10 02:03:15.036 - Thread:   5 ->     c86371ed10d9c77e24c00bd9ce6b7f730bd88154
-2016-08-10 02:03:15.053 - Thread:   5 ->     15da49e8c125c9f95ca1c890731494fb47c554b3
-2016-08-10 02:03:15.057 - Thread:   5 ->     bf92a5d14ac77e39413d01180a43fa376bc6e4da
-2016-08-10 02:03:15.064 - Thread:   5 ->     d3db23fbd9cb63cdb4d36602257220b4b38fab1a
-2016-08-10 02:03:15.068 - Thread:   5 ->     b91c3eed31d2794f96688844948b95f6fb2bf82f
-2016-08-10 02:03:15.074 - Thread:   5 ->     239d066bfd3f666e857514eec9e5c1b359d14138
-2016-08-10 02:03:15.080 - Thread:   5 ->     f1b7feb4ddf72094ddab5f247ba3aa1b8f4349a1
-2016-08-10 02:03:15.084 - Thread:   5 ->     3dcdd5b8c62edc04d4a07dd625433da3c6d776ae
-2016-08-10 02:03:15.099 - Thread:   5 ->     1b430697a09b24a05994364dc33c25da51879b86
-2016-08-10 02:03:15.109 - Thread:   5 ->     276e0cd996b09a103040a13fa5b7e19e5e0f1719
-2016-08-10 02:03:15.116 - Thread:   5 ->     9c35bda314ed11819ad5c8af888c28a208f023cd
-2016-08-10 02:03:15.119 - Thread:   5 ->     7f32560cd46b31bccecf7cf983583cee5a23d8d3
-2016-08-10 02:03:15.134 - Thread:   5 ->     ffb1c7c1d5d5f40c72b8a95dbea435564b32aab3
-2016-08-10 02:03:15.149 - Thread:   5 ->     5dcd9eb4ed5089bc03e0af169cf43d054ef08ffb
-2016-08-10 02:03:15.154 - Thread:   5 ->     b2b50606934d1ea93f8e35e3ed367fed0e78f482
-2016-08-10 02:03:15.156 - Thread:   5 ->     d60b37a6b61828b2017265f88a3b30971067ef1f
-2016-08-10 02:03:15.163 - Thread:   5 ->     6c9c09028a0d5b21159fd7eb5464079dc29c152b
-2016-08-10 02:03:15.177 - Thread:   5 ->     a4cc7f769a13477ae73d237c3e2a9ecf96fd930c
-2016-08-10 02:03:15.190 - Thread:   5 ->     eae262636e2e1c8e5060ebb8608bf3afbc705bbe
-2016-08-10 02:03:15.199 - Thread:   5 ->     68329da64576c6b35ed86320ba001fca18c184fe
-2016-08-10 02:03:15.212 - Thread:   5 ->     aee8d181cb823fcf3b016f444de94d86f1c401d1
-2016-08-10 02:03:15.222 - Thread:   5 ->     58df0d6b557c24944a6d7862e1fbf590b2c93441
-2016-08-10 02:03:15.270 - Thread:   5 ->     58b9abe86c5aee10a31afc36de82c10a09680a68
-2016-08-10 02:03:15.305 - Thread:   5 ->     d63ca02bbe0c25b8a86a8d1823567369e8fc6f5e
-2016-08-10 02:03:15.329 - Thread:   5 ->     a8c7b0c84d8bf6e4fbd176433fdfa73fef2f217b
-2016-08-10 02:03:15.347 - Thread:   5 ->     ba326b14c9cb5ba28d7c25686888f8c2b4d63558
-2016-08-10 02:03:15.355 - Thread:   5 ->     a05a3352e6496e73673ad0331d4ad2e41a0a3219
-2016-08-10 02:03:15.356 - Thread:   5 ->  MyDefinitionManager.PrepareBaseDefinitions() - END
-2016-08-10 02:03:15.358 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - START
-2016-08-10 02:03:15.361 - Thread:   6 ->        f7c90666cc87170a513170c72773f28a4c9e4561
-2016-08-10 02:03:15.469 - Thread:   6 ->        Loading scenarios
-2016-08-10 02:03:15.469 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - END
-2016-08-10 02:03:15.476 - Thread:   6 ->        Loading behaviors
-2016-08-10 02:03:15.477 - Thread:   6 ->        Loading ammo magazines
-2016-08-10 02:03:15.481 - Thread:   6 ->        Loading ammo definitions
-2016-08-10 02:03:15.483 - Thread:   6 ->        Loading animations
-2016-08-10 02:03:15.488 - Thread:   6 ->        Loading animations
-2016-08-10 02:03:15.488 - Thread:   6 ->        Loading animations
-2016-08-10 02:03:15.488 - Thread:   6 ->        Loading sound definitions
-2016-08-10 02:03:15.490 - Thread:   6 ->        Loading sound definitions
-2016-08-10 02:03:15.490 - Thread:   6 ->        Loading sound definitions
-2016-08-10 02:03:15.491 - Thread:   6 ->        Loading sound definitions
-2016-08-10 02:03:15.491 - Thread:   6 ->        Loading category classes
-2016-08-10 02:03:15.491 - Thread:   6 ->        Loading blueprint classes
-2016-08-10 02:03:15.494 - Thread:   6 ->        Loading blueprint class entries
-2016-08-10 02:03:15.495 - Thread:   6 ->        Loading blueprints
-2016-08-10 02:03:15.497 - Thread:   6 ->        Loading agent definitions
-2016-08-10 02:03:15.499 - Thread:   6 ->        Loading character definitions
-2016-08-10 02:03:15.520 - Thread:   6 ->        Loading character definitions
-2016-08-10 02:03:15.520 - Thread:   6 ->        Loading components
-2016-08-10 02:03:15.521 - Thread:   6 ->        Loading configuration
-2016-08-10 02:03:15.523 - Thread:   6 ->        Loading container types
-2016-08-10 02:03:15.525 - Thread:   6 ->        Loading block positions
-2016-08-10 02:03:15.530 - Thread:   6 ->        Loading curve definitions
-2016-08-10 02:03:15.534 - Thread:   6 ->        Loading debris
-2016-08-10 02:03:15.535 - Thread:   6 ->        Loading environment items entries
-2016-08-10 02:03:15.536 - Thread:   6 ->        Loading decal global definitions
-2016-08-10 02:03:15.536 - Thread:   6 ->        Loading decal definitions
-2016-08-10 02:03:15.540 - Thread:   6 ->        Loading edges
-2016-08-10 02:03:15.541 - Thread:   6 ->        Loading entity components
-2016-08-10 02:03:15.548 - Thread:   6 ->        Loading component containers
-2016-08-10 02:03:15.550 - Thread:   6 ->        Loading environment definition
-2016-08-10 02:03:15.553 - Thread:   6 ->        Loading environment items entries
-2016-08-10 02:03:15.553 - Thread:   6 ->        Loading factions
-2016-08-10 02:03:15.555 - Thread:   6 ->        Loading gas property definitions
-2016-08-10 02:03:15.556 - Thread:   6 ->        Loading event definitions
-2016-08-10 02:03:15.558 - Thread:   6 ->        Loading physical items
-2016-08-10 02:03:15.570 - Thread:   6 ->        Loading LCD texture categories
-2016-08-10 02:03:15.572 - Thread:   6 ->        Loading physical items
-2016-08-10 02:03:15.573 - Thread:   6 ->        Loading physical material properties
-2016-08-10 02:03:15.578 - Thread:   6 ->        Loading pirate antennas
-2016-08-10 02:03:15.594 - Thread:   6 ->        Loading resource distribution groups
-2016-08-10 02:03:15.594 - Thread:   6 ->        Loading shadow textures definitions
-2016-08-10 02:03:15.597 - Thread:   6 ->        Loading ship sound groups
-2016-08-10 02:03:15.616 - Thread:   6 ->        Loading ship sound groups
-2016-08-10 02:03:15.617 - Thread:   6 ->        Loading sound categories
-2016-08-10 02:03:15.619 - Thread:   6 ->        Loading stat definitions
-2016-08-10 02:03:15.620 - Thread:   6 ->        Loading grid creators
-2016-08-10 02:03:15.622 - Thread:   6 ->        Loading transparent material properties
-2016-08-10 02:03:15.623 - Thread:   6 ->        Loading voxel map storage definitions
-2016-08-10 02:03:15.624 - Thread:   6 ->        Loading voxel material definitions
-2016-08-10 02:03:15.645 - Thread:   6 ->        Audio effects definitions
-2016-08-10 02:03:15.650 - Thread:   6 ->        Loading environment item definitions
-2016-08-10 02:03:15.655 - Thread:   6 ->        Loading environment items definitions
-2016-08-10 02:03:15.657 - Thread:   6 ->        Loading environment items definitions
-2016-08-10 02:03:15.657 - Thread:   6 ->        Loading physical material properties
-2016-08-10 02:03:15.664 - Thread:   6 ->        Loading particle effect definitions
-2016-08-10 02:03:15.779 - Thread:   6 ->        Loading environment item definitions
-2016-08-10 02:03:15.780 - Thread:   6 ->        Loading environment item definitions
-2016-08-10 02:03:15.780 - Thread:   6 ->        Loading voxel material changes definitions
-2016-08-10 02:03:15.780 - Thread:   6 ->        Loading weapon definitions
-2016-08-10 02:03:15.787 - Thread:   6 ->        Loading cube blocks
-2016-08-10 02:03:15.952 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.954 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.955 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.956 - Thread:   6 ->        Loading prefabs
-2016-08-10 02:03:15.957 - Thread:   6 ->        Loading respawn ships
-2016-08-10 02:03:15.958 - Thread:   6 ->        Loading spawn groups
-2016-08-10 02:03:15.966 - Thread:   6 ->        List of used mods (0) - START
-2016-08-10 02:03:15.966 - Thread:   6 ->        List of used mods - END
-2016-08-10 02:03:16.047 - Thread:   6 ->        Could not find environment item definition for MyObjectBuilder_DestroyableItems/SnowFoliagexxxxx.
-2016-08-10 02:03:16.052 - Thread:   6 ->     MyDefinitionManager.LoadData() - END
-2016-08-10 02:03:16.060 - Thread:   6 ->     Registered modules from: VRage.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.071 - Thread:   6 ->     Registered modules from: Sandbox.Graphics, Version=0.1.6047.25975, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.072 - Thread:   6 ->     Registered modules from: Sandbox.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.072 - Thread:   6 ->     Registered modules from: _StatLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.072 - Thread:   6 ->     Registered modules from: SpaceEngineers.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.090 - Thread:   6 ->     Registered modules from: Sandbox.Game, Version=0.1.6047.25986, Culture=neutral, PublicKeyToken=null
-2016-08-10 02:03:16.277 - Thread:   6 ->     Skip Procedural World Generator
-2016-08-10 02:03:16.286 - Thread:   6 ->     MySunWind.LoadData() - START
-2016-08-10 02:03:16.287 - Thread:   6 ->     MySunWind.LoadData() - END
-2016-08-10 02:03:16.300 - Thread:   6 ->     MyExplosions.LoadData() - START
-2016-08-10 02:03:16.306 - Thread:   6 ->     MyExplosions.LoadData() - END
-2016-08-10 02:03:16.307 - Thread:   6 ->     MyMissiles.LoadContent() - START
-2016-08-10 02:03:16.307 - Thread:   6 ->     MyMissiles.LoadContent() - END
-2016-08-10 02:03:16.315 - Thread:   6 ->     Pre-loading neutral ship spawn groups...
-2016-08-10 02:03:16.315 - Thread:   6 ->     End pre-loading neutral ship spawn groups.
-2016-08-10 02:03:16.315 - Thread:   6 ->     MyLights.LoadData() - START
-2016-08-10 02:03:16.316 - Thread:   6 ->     MyLights.LoadData() - END
-2016-08-10 02:03:16.515 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\EarthLike-557366719d120000.vx2'
-2016-08-10 02:03:20.593 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Moon-1675180789d19000.vx2'
-2016-08-10 02:03:21.882 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Alien-87300816d120000.vx2'
-2016-08-10 02:03:23.544 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Titan-1239934077d19000.vx2'
-2016-08-10 02:03:24.899 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Mars-570368579d120000.vx2'
-2016-08-10 02:03:26.183 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Europa-1669179430d19000.vx2'
-2016-08-10 02:03:28.035 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 76))A(SnowCoverageIronCore__69)-4.vx2'
-2016-08-10 02:03:28.051 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 78))A(SnowCoverageIronCore__539)-2.vx2'
-2016-08-10 02:03:28.053 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 77))A(SnowCoverageIronCore__220)-0.vx2'
-2016-08-10 02:03:28.055 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 78))A(SnowCoverageIronCore__683)-1.vx2'
-2016-08-10 02:03:28.056 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 75))A(SnowCoverageIronCore__891)-5.vx2'
-2016-08-10 02:03:28.073 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 81))A(StoneCoverageIronCore__906)-6.vx2'
-2016-08-10 02:03:28.142 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 78))A(SnowCoverageIronCore__58)-2.vx2'
-2016-08-10 02:03:28.144 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 76))A(SnowCoverageIronCore__324)-3.vx2'
-2016-08-10 02:03:29.373 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 80))A(SnowCoverageIronCore__270)-1.vx2'
-2016-08-10 02:03:29.427 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 80))A(SnowCoverageIronCore__88)-0.vx2'
-2016-08-10 02:03:29.431 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 79))A(SnowCoverageIronCore__439)-1.vx2'
-2016-08-10 02:03:29.434 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 78))A(SnowCoverageIronCore__82)-2.vx2'
-2016-08-10 02:03:29.437 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 78))A(SnowCoverageIronCore__937)-0.vx2'
-2016-08-10 02:03:29.440 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((46, 123, 57))A(SnowCoverageIronCore__680)-0.vx2'
-2016-08-10 02:03:29.477 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 82))A(StoneCoverageIronCore__774)-3.vx2'
-2016-08-10 02:03:31.146 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 74))A(SnowCoverageIronCore__191)-1.vx2'
-2016-08-10 02:03:31.155 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((74, -1, 74))A(SnowCoverageIronCore__667)-4.vx2'
-2016-08-10 02:03:31.156 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 81))A(SnowCoverageIronCore__836)-0.vx2'
-2016-08-10 02:03:31.161 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 76))A(SnowCoverageIronCore__284)-6.vx2'
-2016-08-10 02:03:31.163 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 82))A(SnowCoverageIronCore__747)-2.vx2'
-2016-08-10 02:03:31.197 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 77))A(SnowCoverageIronCore__244)-2.vx2'
-2016-08-10 02:03:31.199 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 77))A(SnowCoverageIronCore__406)-1.vx2'
-2016-08-10 02:03:31.224 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 77))A(StoneCoverageIronCore__792)-3.vx2'
-2016-08-10 02:03:31.226 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 77))A(SnowCoverageIronCore__645)-7.vx2'
-2016-08-10 02:03:31.354 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 76))A(SnowCoverageIronCore__170)-0.vx2'
-2016-08-10 02:03:31.375 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 78))A(StoneCoverageIronCore__1010)-1.vx2'
-2016-08-10 02:03:31.468 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((77, -1, 72))A(SnowCoverageIronCore__101)-0.vx2'
-2016-08-10 02:03:31.472 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 76))A(SnowCoverageIronCore__728)-0.vx2'
-2016-08-10 02:03:31.627 - Thread:   6 ->     Checkpoint.CameraAttachedTo: 0
-2016-08-10 02:03:31.627 - Thread:   6 ->     ERROR: Camera entity from checkpoint does not exists!
-2016-08-10 02:03:31.658 - Thread:   6 ->     MySession.Static.LogSettings - START
-2016-08-10 02:03:31.658 - Thread:   6 ->        Name = Meowmix
-2016-08-10 02:03:31.658 - Thread:   6 ->        Description = 
-2016-08-10 02:03:31.658 - Thread:   6 ->        GameDateTime = 01/03/2081 02:50:01
-2016-08-10 02:03:31.658 - Thread:   6 ->        Password = 
-2016-08-10 02:03:31.658 - Thread:   6 ->        CurrentPath = C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts
-2016-08-10 02:03:31.658 - Thread:   6 ->        WorkshopId = 
-2016-08-10 02:03:31.658 - Thread:   6 ->        CameraController = Sandbox.Engine.Utils.MySpectatorCameraController
-2016-08-10 02:03:31.658 - Thread:   6 ->        ThumbPath = C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\thumb.jpg
-2016-08-10 02:03:31.661 - Thread:   6 ->        Settings:
-2016-08-10 02:03:31.661 - Thread:   6 ->           GameMode = Survival
-2016-08-10 02:03:31.661 - Thread:   6 ->           MaxPlayers = 4
-2016-08-10 02:03:31.661 - Thread:   6 ->           OnlineMode = PUBLIC
-2016-08-10 02:03:31.661 - Thread:   6 ->           AutoHealing = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           WeaponsEnabled = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           ThrusterDamage = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           EnableSpectator = False
-2016-08-10 02:03:31.661 - Thread:   6 ->           EnableCopyPaste = False
-2016-08-10 02:03:31.661 - Thread:   6 ->           MaxFloatingObjects = 56
-2016-08-10 02:03:31.661 - Thread:   6 ->           CargoShipsEnabled = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           EnvironmentHostility = NORMAL
-2016-08-10 02:03:31.661 - Thread:   6 ->           ShowPlayerNamesOnHud = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           InventorySizeMultiplier = 10
-2016-08-10 02:03:31.661 - Thread:   6 ->           RefinerySpeedMultiplier = 3
-2016-08-10 02:03:31.661 - Thread:   6 ->           AssemblerSpeedMultiplier = 3
-2016-08-10 02:03:31.661 - Thread:   6 ->           AssemblerEfficiencyMultiplier = 3
-2016-08-10 02:03:31.661 - Thread:   6 ->           WelderSpeedMultiplier = 2
-2016-08-10 02:03:31.661 - Thread:   6 ->           GrinderSpeedMultiplier = 2
-2016-08-10 02:03:31.661 - Thread:   6 ->           ClientCanSave = False
-2016-08-10 02:03:31.661 - Thread:   6 ->           HackSpeedMultiplier = 0.33
-2016-08-10 02:03:31.661 - Thread:   6 ->           PermanentDeath = False
-2016-08-10 02:03:31.661 - Thread:   6 ->           DestructibleBlocks =  True
-2016-08-10 02:03:31.661 - Thread:   6 ->           EnableScripts =  True
-2016-08-10 02:03:31.661 - Thread:   6 ->           AutoSaveInMinutes = 20
-2016-08-10 02:03:31.661 - Thread:   6 ->           SpawnShipTimeMultiplier = 0.5
-2016-08-10 02:03:31.661 - Thread:   6 ->           ProceduralDensity = 0
-2016-08-10 02:03:31.661 - Thread:   6 ->           ProceduralSeed = 0
-2016-08-10 02:03:31.661 - Thread:   6 ->           DestructibleBlocks = True
-2016-08-10 02:03:31.661 - Thread:   6 ->           EnableIngameScripts = True
-2016-08-10 02:03:31.662 - Thread:   6 ->           ViewDistance = 8000
-2016-08-10 02:03:31.662 - Thread:   6 ->           Battle = False
-2016-08-10 02:03:31.662 - Thread:   6 ->           Voxel destruction = True
-2016-08-10 02:03:31.662 - Thread:   6 ->           EnableStructuralSimulation = False
-2016-08-10 02:03:31.662 - Thread:   6 ->           MaxActiveFracturePieces = 50
-2016-08-10 02:03:31.662 - Thread:   6 ->     MySession.Static.LogSettings - END
-2016-08-10 02:03:31.698 - Thread:   6 ->     Session loaded
-2016-08-10 02:03:31.705 - Thread:   6 ->  MySandboxGame.Initialize() - END
-2016-08-10 02:03:31.706 - Thread:   6 ->  Timer Frequency: 10000000
-2016-08-10 02:03:31.706 - Thread:   6 ->  Ticks per frame: 167364
-2016-08-10 02:03:31.740 - Thread:   6 ->  Server connected to Steam
-2016-08-10 02:03:31.741 - Thread:   6 ->  Server PolicyResponse (1)
-2016-08-10 02:03:31.747 - Thread:   6 ->  Updating continues.
-2016-08-10 02:03:32.006 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
-2016-08-10 02:03:32.064 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
-2016-08-10 02:03:32.065 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
-2016-08-10 02:03:32.067 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
-2016-08-10 02:03:33.749 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
-2016-08-10 02:03:33.910 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
-2016-08-10 02:03:34.637 - Thread:   6 ->  GC Memory: 1,408,308,024 B
-2016-08-10 02:03:34.825 - Thread:   6 ->  Game ready... Press Ctrl+C to exit
-2016-08-10 02:10:52.975 - Thread:   6 ->  Exiting..
-2016-08-10 02:10:52.979 - Thread:   6 ->  MySession::Unload START
-2016-08-10 02:10:52.979 - Thread:   6 ->  AutoSaveInMinutes: 20
-2016-08-10 02:10:52.979 - Thread:   6 ->  MySandboxGame.IsDedicated: True
-2016-08-10 02:10:52.979 - Thread:   6 ->  IsServer: True
-2016-08-10 02:10:52.979 - Thread:   6 ->  Autosave in unload
-2016-08-10 02:10:52.985 - Thread:   6 ->  Saving world - START
-2016-08-10 02:10:52.985 - Thread:   6 ->     Making world state snapshot.
-2016-08-10 02:10:52.985 - Thread:   6 ->     Before snapshot.: GC Memory: 1,329,278,096 B
-2016-08-10 02:10:53.353 - Thread:   6 ->     After snapshot.: GC Memory: 1,331,183,400 B
-2016-08-10 02:10:53.355 - Thread:   6 ->     Directory cleanup: GC Memory: 1,331,191,592 B
-2016-08-10 02:10:53.355 - Thread:   6 ->  Saving world - END
-2016-08-10 02:10:53.357 - Thread:   6 ->  Session snapshot save - START
-2016-08-10 02:10:53.358 - Thread:   6 ->     Checking file access for files in target dir.
-2016-08-10 02:10:54.469 - Thread:   6 ->  Session snapshot save - END
-2016-08-10 02:10:54.779 - Thread:   6 ->  MySunWind.UnloadData - START
-2016-08-10 02:10:54.779 - Thread:   6 ->  MySunWind.UnloadData - END
-2016-08-10 02:10:54.781 - Thread:   6 ->  Unloading Procedural World Generator
-2016-08-10 02:10:54.808 - Thread:   6 ->  Network readers disposed
-2016-08-10 02:10:55.018 - Thread:   6 ->  Network readers disposed
-2016-08-10 02:10:55.018 - Thread:   6 ->  Logging off Steam...
-2016-08-10 02:10:55.018 - Thread:   6 ->  Shutting down server...
-2016-08-10 02:10:55.127 - Thread:   6 ->  Done
-2016-08-10 02:10:55.127 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - START
-2016-08-10 02:10:55.143 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - END
-2016-08-10 02:10:55.346 - Thread:   6 ->  MySession::Unload END
-2016-08-10 02:10:55.346 - Thread:   6 ->  MySandboxGame.UnloadData() - START
-2016-08-10 02:10:55.346 - Thread:   6 ->  MySandboxGame.UnloadData() - END
-2016-08-10 02:10:55.658 - Thread:   6 ->  Log Closed
+2016-08-10 22:43:57.710 - Thread:   6 ->  Log Started
+2016-08-10 22:43:57.726 - Thread:   6 ->  Timezone (local - UTC): 0h
+2016-08-10 22:43:57.726 - Thread:   6 ->  App Version: 01_140_007
+2016-08-10 22:43:57.726 - Thread:   6 ->  Steam build: Always true
+2016-08-10 22:43:57.726 - Thread:   6 ->  Is official: True [NO][IS][NAMP]
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.ProcessorCount: 2
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.OSVersion: Microsoft Windows NT 6.2.9200.0
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.CommandLine: "C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\DedicatedServer64\SpaceEngineersDedicated.exe"
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.Is64BitProcess: True
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.Is64BitOperatingSystem: True
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.Version: 4.6.1 or later (394271)
+2016-08-10 22:43:57.726 - Thread:   6 ->  Environment.CurrentDirectory: C:\Windows\system32
+2016-08-10 22:43:57.726 - Thread:   6 ->  MainAssembly.ProcessorArchitecture: Amd64
+2016-08-10 22:43:57.726 - Thread:   6 ->  ExecutingAssembly.ProcessorArchitecture: Amd64
+2016-08-10 22:43:57.726 - Thread:   6 ->  IntPtr.Size: 8
+2016-08-10 22:43:57.726 - Thread:   6 ->  Default Culture: 
+2016-08-10 22:43:57.726 - Thread:   6 ->  Default UI Culture: 
+2016-08-10 22:43:57.726 - Thread:   6 ->  IsAdmin: True
+2016-08-10 22:43:58.851 - Thread:   6 ->  MySandboxGame.Constructor() - START
+2016-08-10 22:43:58.851 - Thread:   6 ->     Game dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\DedicatedServer64
+2016-08-10 22:43:58.851 - Thread:   6 ->     Content dir: C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content
+2016-08-10 22:43:58.851 - Thread:   6 ->     Found processor count: 2
+2016-08-10 22:43:58.851 - Thread:   6 ->     Using processor count: 2
+2016-08-10 22:43:59.835 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - START
+2016-08-10 22:43:59.851 - Thread:   6 ->        f7c90666cc87170a513170c72773f28a4c9e4561
+2016-08-10 22:44:00.226 - Thread:   6 ->        Loading scenarios
+2016-08-10 22:44:00.288 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - END
+2016-08-10 22:44:00.288 - Thread:   6 ->     542b5acf1fe908bd776975822a1f3b54e0e6c85c
+2016-08-10 22:44:00.304 - Thread:   6 ->     Preallocate - START
+2016-08-10 22:44:00.304 - Thread:   6 ->        MySpaceBuildComponent - START
+2016-08-10 22:44:00.304 - Thread:   6 ->        MySpaceBuildComponent - END
+2016-08-10 22:44:00.304 - Thread:   6 ->        MySpaceWorldGenerator - START
+2016-08-10 22:44:00.320 - Thread:   6 ->        MySpaceWorldGenerator - END
+2016-08-10 22:44:00.320 - Thread:   6 ->        MyEntities - START
+2016-08-10 22:44:00.351 - Thread:   6 ->        MyEntities - END
+2016-08-10 22:44:00.351 - Thread:   6 ->        MyObjectBuilder_Base - START
+2016-08-10 22:44:00.351 - Thread:   6 ->        MyObjectBuilder_Base - END
+2016-08-10 22:44:00.351 - Thread:   6 ->        MyTransparentGeometry - START
+2016-08-10 22:44:00.398 - Thread:   6 ->        MyTransparentGeometry - END
+2016-08-10 22:44:00.398 - Thread:   6 ->        MyCubeGridDeformationTables - START
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyCubeGridDeformationTables - END
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyMath - START
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyMath - END
+2016-08-10 22:44:00.413 - Thread:   6 ->        MySimpleObjectDraw - START
+2016-08-10 22:44:00.413 - Thread:   6 ->        MySimpleObjectDraw - END
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyDefinitionManager - START
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyDefinitionManager - END
+2016-08-10 22:44:00.413 - Thread:   6 ->        MyCubeGridDefinitions - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyCubeGridDefinitions - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyAIActionsParser - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyAIActionsParser - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerBase - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerBase - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerServerBase - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerServerBase - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyDedicatedServerBase - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyDedicatedServerBase - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyDedicatedServerBattle - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyDedicatedServerBattle - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerLobbyClient - START
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyMultiplayerLobbyClient - END
+2016-08-10 22:44:00.460 - Thread:   6 ->        MyServerDebugCommands - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyServerDebugCommands - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyMultiplayerClient - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyMultiplayerClient - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyMultiplayerLobby - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyMultiplayerLobby - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyDedicatedServer - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyDedicatedServer - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyAiTargetManager - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyAiTargetManager - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyEntityComponentsDebugDraw - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyEntityComponentsDebugDraw - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyChatHistory - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyChatHistory - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MySyncDestructions - START
+2016-08-10 22:44:00.507 - Thread:   6 ->        MySyncDestructions - END
+2016-08-10 22:44:00.507 - Thread:   6 ->        MyGuiIngameScriptsPage - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyGuiIngameScriptsPage - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyGuiScreenAdminMenu - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyGuiScreenAdminMenu - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandCharacter - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandCharacter - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandConsole - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandConsole - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandEntity - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MyCommandEntity - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MySyncScenario - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MySyncScenario - END
+2016-08-10 22:44:00.554 - Thread:   6 ->        MySyncEntity - START
+2016-08-10 22:44:00.554 - Thread:   6 ->        MySyncEntity - END
+2016-08-10 22:44:00.554 - Thread:   6 ->     Preallocate - END
+2016-08-10 22:44:00.585 - Thread:   6 ->     Bind IP : 0.0.0.0:27016
+2016-08-10 22:45:19.437 - Thread:   6 ->     Server successfully started
+2016-08-10 22:45:19.437 - Thread:   6 ->     Product name: Space Engineers
+2016-08-10 22:45:19.437 - Thread:   6 ->     Desc: Space Engineers
+2016-08-10 22:45:19.437 - Thread:   6 ->     Public IP: 52.206.184.109
+2016-08-10 22:45:19.437 - Thread:   6 ->     Steam ID: 90103091324221445
+2016-08-10 22:45:19.452 - Thread:   6 ->  MySandboxGame.Constructor() - END
+2016-08-10 22:45:19.453 - Thread:   6 ->  MySandboxGame.Initialize() - START
+2016-08-10 22:45:19.484 - Thread:   6 ->     MyGuiGameControlsHelpers()
+2016-08-10 22:45:19.600 - Thread:   6 ->     HkGameName: SpaceEngineers Release
+2016-08-10 22:45:19.825 - Thread:   6 ->     MySandboxGame.LoadData() - START
+2016-08-10 22:45:19.826 - Thread:   6 ->        MyDefinitionManager.PreloadDefinitions() - START
+2016-08-10 22:45:20.109 - Thread:   5 ->  MyDefinitionManager.PrepareBaseDefinitions() - START
+2016-08-10 22:45:20.130 - Thread:   6 ->        MyDefinitionManager.PreloadDefinitions() - END
+2016-08-10 22:45:20.141 - Thread:   5 ->     088c27d7ef805fd11d6ef606757f33e986f346a4
+2016-08-10 22:45:20.222 - Thread:   6 ->     MySandboxGame.LoadData() - END
+2016-08-10 22:45:20.232 - Thread:   5 ->     de45db564c8694e17cddcd01a7792f501480ea9c
+2016-08-10 22:45:20.251 - Thread:   5 ->     cc281ea2f76eb4090580571f474a0033652cfda3
+2016-08-10 22:45:20.373 - Thread:   5 ->     e2bb8ed6fed42a7d4f29e49b8dbbddad651cf6f3
+2016-08-10 22:45:20.406 - Thread:   5 ->     4c777aa77203789de710ff7c1ff8a619a9c1dfb3
+2016-08-10 22:45:20.410 - Thread:   5 ->     ff455d4ed9aa55bb5f5c0e9739ae1102bec9d5bf
+2016-08-10 22:45:20.423 - Thread:   5 ->     a990ae78d2c1ef65ee3993334e9324b83b1af32a
+2016-08-10 22:45:20.561 - Thread:   5 ->     9313f318436ef33c3ff711a3c7210ffa46603b12
+2016-08-10 22:45:20.584 - Thread:   5 ->     c9a5cbc3723208791d155f4ca7b9e9b248d520ae
+2016-08-10 22:45:20.622 - Thread:   5 ->     216b8ed3bc57a91e86c70877433f4ea5dcf07be0
+2016-08-10 22:45:20.648 - Thread:   5 ->     8c7e0f0f022e123fd04c03e565e3f40b9998b898
+2016-08-10 22:45:20.661 - Thread:   5 ->     d49fd41d26de1ec5fbff778cae34286566deedaa
+2016-08-10 22:45:20.685 - Thread:   5 ->     de99ce34a0bfa8d287a7df96d08827d2d48e92d0
+2016-08-10 22:45:20.695 - Thread:   5 ->     ac83a74d9a56664750af470fb40537d00057e05d
+2016-08-10 22:45:20.731 - Thread:   5 ->     3718ae644e957989b6ecf5ec55630d2a8730e180
+2016-08-10 22:45:20.742 - Thread:   5 ->     7a1c68a0cc020d7bb3ee1b1711dd7cac9e640971
+2016-08-10 22:45:20.768 - Thread:   5 ->     8ce42f3ecbf0c4f2f63cbefc5bb97841e72ccef2
+2016-08-10 22:45:20.859 - Thread:   5 ->     b916fbb72b90ef2caad80659ce7ae447ccfe3a67
+2016-08-10 22:45:20.867 - Thread:   5 ->     bdc5b0b468d6ef47ca02469aeca70e0e84e5d6d8
+2016-08-10 22:45:20.882 - Thread:   5 ->     ef26203e9e51cef777ff179bc491c388cc4d00ce
+2016-08-10 22:45:20.892 - Thread:   5 ->     db1f963639beae34a4c783eccec4da264e1188d6
+2016-08-10 22:45:20.925 - Thread:   5 ->     cf940e7ffbb94fc8d3c11e692d7aa0d308c3bc80
+2016-08-10 22:45:21.190 - Thread:   6 ->     Downloading world mods - START
+2016-08-10 22:45:21.190 - Thread:   6 ->     Downloading world mods - END
+2016-08-10 22:45:21.254 - Thread:   6 ->     Loading session: C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts
+2016-08-10 22:45:23.492 - Thread:   5 ->     f5ab47ced7d6a09120432fbaada2d0111c7e4815
+2016-08-10 22:45:23.505 - Thread:   5 ->     bfa2970ea33dc23a012e0415f74c2fedefeba136
+2016-08-10 22:45:23.515 - Thread:   5 ->     8868e2640ddb056fa2419d4e5d794ffffa15c6bc
+2016-08-10 22:45:23.527 - Thread:   5 ->     4f69c45893080175acf9bc08045dfdda94c7783b
+2016-08-10 22:45:23.539 - Thread:   5 ->     4a13a13bafb016c4743240b3ade62af0f434aadb
+2016-08-10 22:45:23.552 - Thread:   5 ->     59b4b59b880486a037ad314e0a440652c27355a9
+2016-08-10 22:45:23.590 - Thread:   5 ->     a7bdd59f9605c1bc1c63f414c4a383e8d89796cb
+2016-08-10 22:45:23.603 - Thread:   5 ->     7a6341e9ea35365e98b6dedc6121a2f8cb13961f
+2016-08-10 22:45:23.623 - Thread:   5 ->     d8dd11a4cbba19f2de4f6461f6621fa55b7c9868
+2016-08-10 22:45:23.647 - Thread:   5 ->     07dc0539cf995d6a7321c360fab5877d288710ec
+2016-08-10 22:45:23.654 - Thread:   5 ->     f5875feb6ad600c4de928f82238502bbfd9f8be0
+2016-08-10 22:45:23.658 - Thread:   5 ->     e40ad0414fbd78a0e3b444b68a4f188ed05bcabb
+2016-08-10 22:45:23.666 - Thread:   5 ->     41bbade89f01bee5a9e3e2354a9d8aa7653f5944
+2016-08-10 22:45:23.695 - Thread:   5 ->     9926d62f66cfe9569aafb19902599a185c4f52a9
+2016-08-10 22:45:23.785 - Thread:   5 ->     75c4bad7baecb911dd8b2646a04ced896f17c3b5
+2016-08-10 22:45:23.795 - Thread:   5 ->     ce4c66a418cd04ac5694a46a2df4759b0819acfd
+2016-08-10 22:45:23.866 - Thread:   5 ->     910883faa39e53f39656747baa2c24d021d64d65
+2016-08-10 22:45:24.069 - Thread:   5 ->     513027b2b8e9aebf5f92f83eaeffc4680fbdef6d
+2016-08-10 22:45:24.118 - Thread:   5 ->     222511ccfc99373373c23b576982b283cda79ce0
+2016-08-10 22:45:24.130 - Thread:   5 ->     f884b0daed96f88375bf646e2efa07ad4daa3c9f
+2016-08-10 22:45:24.146 - Thread:   5 ->     d54bc7f0caa8897063c0d4784b268c88ee6df648
+2016-08-10 22:45:24.232 - Thread:   5 ->     aa6baf1f6fbde16f746c7f626567786127d3ee7d
+2016-08-10 22:45:24.237 - Thread:   5 ->     200fd0ed4ad25dc8dc84c04198a12c7c482000d2
+2016-08-10 22:45:24.245 - Thread:   5 ->     ce75856800d7cabb2adb82160cc3c1f558c639f1
+2016-08-10 22:45:24.254 - Thread:   5 ->     fa1260a424fb01147d3bb1f096b5a9a94b44bcc9
+2016-08-10 22:45:24.275 - Thread:   5 ->     653e13beec9abba6080cf12d1f08c6c7b3ac86e7
+2016-08-10 22:45:24.285 - Thread:   5 ->     85b8989274346f54b936b41f6d875a4c7116c922
+2016-08-10 22:45:24.318 - Thread:   5 ->     f59fffb72a5c03c9b1ee75bb852a692e51e13c80
+2016-08-10 22:45:24.324 - Thread:   5 ->     3fbf4c300e19e0a567474b45fa217784acb582e3
+2016-08-10 22:45:24.337 - Thread:   5 ->     6ea68d3f938e74330f429e1a7ceaa70056110cd7
+2016-08-10 22:45:24.394 - Thread:   5 ->     dbdf957e32888152a1653d09737839f330520b8d
+2016-08-10 22:45:24.406 - Thread:   5 ->     d93aaaa67e101b53bfea2baa78d5ab19caa6a871
+2016-08-10 22:45:24.409 - Thread:   5 ->     b1844954cc735d5ab63d443bb31f81556b3931d8
+2016-08-10 22:45:24.444 - Thread:   5 ->     673aa2d47c4a54e69d13e2b594c1b45fb88c841c
+2016-08-10 22:45:24.462 - Thread:   5 ->     c93a4c0f02ae288ed21525c26c8f5da49bbb30c9
+2016-08-10 22:45:24.500 - Thread:   5 ->     2810f5173cb20aced23bdaf245d3533c44e8d526
+2016-08-10 22:45:24.521 - Thread:   5 ->     9359992e801b5a2c4b0e42ec7a5741aa3fe241d8
+2016-08-10 22:45:24.560 - Thread:   5 ->     6f9adeaa43f52a30e1a667a3d77188327dac62ef
+2016-08-10 22:45:24.563 - Thread:   5 ->     a37a1c96357efdb7fe8e7d8395f84618a4838077
+2016-08-10 22:45:24.567 - Thread:   5 ->     7ee43616150bce6b444fcdb5a31570cbcc814821
+2016-08-10 22:45:24.600 - Thread:   5 ->     f7f31f88c25f34eb283016519ee8c0c0a94b5998
+2016-08-10 22:45:24.677 - Thread:   5 ->     cf8c17ad0ba6577b8893b6308753b5db733f4e61
+2016-08-10 22:45:24.732 - Thread:   5 ->     2095a8590796332100e671e64395f31fe370b62f
+2016-08-10 22:45:24.752 - Thread:   5 ->     68f00e474bf03ccbfb38ea3129a17fbcfebf2bd7
+2016-08-10 22:45:24.827 - Thread:   5 ->     e4e00ac09d214dc844b05668cc9a622ee471c5b3
+2016-08-10 22:45:24.908 - Thread:   5 ->     ced67d92840b85eb87f8643869af79c76b2c2656
+2016-08-10 22:45:24.923 - Thread:   5 ->     6a40587a509ded827dad3b9eaa85c38c284219f1
+2016-08-10 22:45:24.928 - Thread:   5 ->     218e5941772aa15266de761e6b42bddf50930199
+2016-08-10 22:45:24.932 - Thread:   5 ->     38078210faf81ec68266db063364e0a1f135219c
+2016-08-10 22:45:24.934 - Thread:   5 ->     de86683e2e675a1933b9cf728963273abbd8701d
+2016-08-10 22:45:24.937 - Thread:   5 ->     c8846a3e2c011fb146c2d10a4a38ebdcc28d5c6c
+2016-08-10 22:45:24.941 - Thread:   5 ->     122c0be2561319f54c3595536775678d53d17eff
+2016-08-10 22:45:24.944 - Thread:   5 ->     90e9c936323ad9b95ada7eb8a1df8eb7b28fcad8
+2016-08-10 22:45:24.946 - Thread:   5 ->     cfdb54d9662c334224f745a85d0e112cfb2fddbe
+2016-08-10 22:45:24.949 - Thread:   5 ->     b8ba05015639050d4b4b6d1d4dabd445321dcc88
+2016-08-10 22:45:24.970 - Thread:   5 ->     9de43b864a3d64cdbedb6b9c2f3b9236ba259cab
+2016-08-10 22:45:24.987 - Thread:   5 ->     1e917abea7d622014771d46733dd9fc2c0321ea1
+2016-08-10 22:45:25.003 - Thread:   5 ->     3ac7931c0dbb78b93e6a4713bc48ff5c73e90ac7
+2016-08-10 22:45:25.032 - Thread:   5 ->     bad5728ed673e429194f299dd858c51f649635a4
+2016-08-10 22:45:25.081 - Thread:   5 ->     10e6c2a7763710bd31acb3f514c6c473eee71b02
+2016-08-10 22:45:25.101 - Thread:   5 ->     85089b19211654f3392bf3c1f0d542e8c6168240
+2016-08-10 22:45:25.106 - Thread:   5 ->     848d0a6bdd573c7ee1b2f01ae788969d8a195410
+2016-08-10 22:45:25.112 - Thread:   5 ->     9d0c49d3d5cdc8eae152cb880875f0e842f02050
+2016-08-10 22:45:25.116 - Thread:   5 ->     f50e9af8ae978270da0724180b6dd3f41de2c3e0
+2016-08-10 22:45:25.121 - Thread:   5 ->     2014585128a4e610a67850c0d074b698f52fad26
+2016-08-10 22:45:25.126 - Thread:   5 ->     20c8a521d21ec62b8704800e8ca9cfbf6a7ce633
+2016-08-10 22:45:25.162 - Thread:   5 ->     4b3008a5bf90b515f845b8dbae38d3d83d8dc47b
+2016-08-10 22:45:25.193 - Thread:   5 ->     dee1cbe7368413c488fd1588a34e2c246cda4075
+2016-08-10 22:45:25.207 - Thread:   5 ->     a5f1ad12f017868689cd87654896b43b78452ec1
+2016-08-10 22:45:25.213 - Thread:   5 ->     e0565f064b2fe2d3be0d0f8af89ed3a0f8ec043d
+2016-08-10 22:45:25.217 - Thread:   5 ->     2565a221e822bbc5440dd5c199fbbab69fe5fb24
+2016-08-10 22:45:25.229 - Thread:   5 ->     3184363ca62134abe4331946f9827e70997b1c97
+2016-08-10 22:45:25.246 - Thread:   5 ->     4f53d6221c776d3c81492a219108a17b8e108c4c
+2016-08-10 22:45:25.273 - Thread:   5 ->     d71173a4df2a97d758e10c5848c26e04c09a579d
+2016-08-10 22:45:25.290 - Thread:   5 ->     720b176a1cb5e38e94459e3a7bab1ed3436da027
+2016-08-10 22:45:25.301 - Thread:   5 ->     fdd5411b6fdbb82af48c88a353e81b71c85af7b1
+2016-08-10 22:45:25.311 - Thread:   5 ->     ff1f0220008c1c6ca3d3a96b230bf7afd64e804b
+2016-08-10 22:45:25.315 - Thread:   5 ->     0ec3cef52ea811f1516993453a3c72e25fafb1ba
+2016-08-10 22:45:25.321 - Thread:   5 ->     620545da507501a55bc81dd9126a4cfe493dc953
+2016-08-10 22:45:25.335 - Thread:   5 ->     7bef96d6d5141e798511628642b7e40c97c15447
+2016-08-10 22:45:25.352 - Thread:   5 ->     dce34207b35248d39b16dd9ba9dd5f824a7b16f2
+2016-08-10 22:45:25.360 - Thread:   5 ->     f37b34f0734d84fa33edc7c0e893a139ef074786
+2016-08-10 22:45:25.371 - Thread:   5 ->     f2117b494dda495dfeafc5901cc105733c972ef7
+2016-08-10 22:45:25.383 - Thread:   5 ->     56dcb4045cde7b2ea80c879b5e3f2fd9b1414b5e
+2016-08-10 22:45:25.405 - Thread:   5 ->     04c8128089d69534d8b389cd96bc7b07d48bed1c
+2016-08-10 22:45:25.423 - Thread:   5 ->     185d663dbf9339ad2e86c9e8ba7223adcb212a57
+2016-08-10 22:45:25.432 - Thread:   5 ->     3322ac65ef808ec408d1596108e181abd2e08414
+2016-08-10 22:45:25.442 - Thread:   5 ->     a4a8a4b74a73adfd000029a6bab4682de126e3d1
+2016-08-10 22:45:25.461 - Thread:   5 ->     4d7394e1c96cfa89e4f1723753d193be90a4c32d
+2016-08-10 22:45:25.476 - Thread:   5 ->     e2b4397c4ba4eb432a80a04f5cc003c60f1e159c
+2016-08-10 22:45:25.482 - Thread:   5 ->     835f03d2736abca1733a8e6a84a7170d9325e00b
+2016-08-10 22:45:25.488 - Thread:   5 ->     956ee31e1ec43c84e65658e0aa5b44cfbb539a6f
+2016-08-10 22:45:25.493 - Thread:   5 ->     769a84e61e4d6030398c187b769bba3b132bc2f6
+2016-08-10 22:45:25.501 - Thread:   5 ->     fd4f2a183a6a0e24d51bcb199aa8f1deded72ad7
+2016-08-10 22:45:25.535 - Thread:   5 ->     2336b10986aa7374a5496f520a526286848a0118
+2016-08-10 22:45:25.560 - Thread:   5 ->     5376838b74f0a0d0f1d72d8e3539fd2c55df908f
+2016-08-10 22:45:25.580 - Thread:   5 ->     07ca7badf2ca86a083cd10662ad344ff853a3eea
+2016-08-10 22:45:25.596 - Thread:   5 ->     3e6f6d4e74d37b450d27d17eaee249ef0620fbe5
+2016-08-10 22:45:25.603 - Thread:   5 ->     e8e73e00cb2087a988c3e2f5ede4f5d86f85496d
+2016-08-10 22:45:25.610 - Thread:   5 ->     5da422e601f17ad3a693bcd68d2ccb2998b8c59b
+2016-08-10 22:45:25.613 - Thread:   5 ->     a5d5a9586d691d69a59c220d031ea7ea9ab0fc08
+2016-08-10 22:45:25.622 - Thread:   5 ->     5ffaba233eb0a8d78ec98c0809964451b13dd10a
+2016-08-10 22:45:25.636 - Thread:   5 ->     4c3f88977ca24319f84fd21bd9ae9c603d68f909
+2016-08-10 22:45:25.714 - Thread:   5 ->     44022be82003195e8eb3ed3e8da691031fb57bad
+2016-08-10 22:45:25.734 - Thread:   5 ->     5da8caf3fd581e01d8e014c0bce07bae1c0aee9e
+2016-08-10 22:45:25.758 - Thread:   5 ->     4bccce2b87501dfa41b64448157e2d1b0d51d369
+2016-08-10 22:45:25.781 - Thread:   5 ->     88eb50064ff88789f9de02ad1211bd1f610bacad
+2016-08-10 22:45:25.819 - Thread:   5 ->     f5ea23c39daf4730f1b186fbd7c33cc6323fdd5d
+2016-08-10 22:45:25.841 - Thread:   5 ->     3f9dbf3751adef8bff9833378ab726e9b4a47f22
+2016-08-10 22:45:25.848 - Thread:   5 ->     c22dcd8ac78de066ab91464f44c237abb1923935
+2016-08-10 22:45:25.859 - Thread:   5 ->     c6ed857bf8c6fbb81327e868643799fe42c58219
+2016-08-10 22:45:25.884 - Thread:   5 ->     83d2902c2bab88bdc86dc14a624a5dde7749b07f
+2016-08-10 22:45:25.901 - Thread:   5 ->     84aa1c647fc83b61b792cc19fb96f2fae51612b6
+2016-08-10 22:45:25.912 - Thread:   5 ->     f4e87b75ab4a286b62e5b4f14661ecad846552ab
+2016-08-10 22:45:25.920 - Thread:   5 ->     4497aa0fd08d9e68ae9f50e9c213ecf4d146a2ba
+2016-08-10 22:45:25.927 - Thread:   5 ->     2611aa9c9d08151123f5b00116b36bd31bb1cb67
+2016-08-10 22:45:25.941 - Thread:   5 ->     c482f6275df7c278580215fa0505480e64172088
+2016-08-10 22:45:25.949 - Thread:   5 ->     3747211e960982a5b0ca7f72586d79f5e252fa54
+2016-08-10 22:45:25.953 - Thread:   5 ->     7c47519135741ac1e89ec1589d2b3039ea97dc26
+2016-08-10 22:45:25.957 - Thread:   5 ->     69c1e2ba8966943be2c8eb7f876b9280c347f079
+2016-08-10 22:45:25.967 - Thread:   5 ->     c83f4e1cea16398734789cffe47f4f2fdaa0f9f8
+2016-08-10 22:45:25.978 - Thread:   5 ->     708d43b2697a8f8b4d9e154327f385c552deab85
+2016-08-10 22:45:25.980 - Thread:   5 ->     45cded885b1fb3a076117637821ea824593af6cb
+2016-08-10 22:45:26.002 - Thread:   5 ->     f2f2274ba5c88389781490a57df951ed54b2e734
+2016-08-10 22:45:26.017 - Thread:   5 ->     7b0f97cb9b873b24e4cdacd9e9d109a4c788d132
+2016-08-10 22:45:26.019 - Thread:   5 ->     ac2ca58fcc9849b24967a8c717b4496cf344d08e
+2016-08-10 22:45:26.020 - Thread:   5 ->     3f30958b74c239539738f69178fdb864eaa73989
+2016-08-10 22:45:26.021 - Thread:   5 ->     7369885e1977ef65ac5fdbf1eb865a105bae9476
+2016-08-10 22:45:26.022 - Thread:   5 ->     b00c9f6f5ce1822a52cf688c90451ff44a46975c
+2016-08-10 22:45:26.023 - Thread:   5 ->     be6dc88dbebb07f5449fb5f5c066c16a71b8f446
+2016-08-10 22:45:26.024 - Thread:   5 ->     9f8a7b6957dda1fa14d34fab04bd629f44f0a071
+2016-08-10 22:45:26.026 - Thread:   5 ->     2fef485506dbe14e394143a055a8360fc072954d
+2016-08-10 22:45:26.072 - Thread:   5 ->     b4842e0156b9cd3e0b79082f6887e050aec410b7
+2016-08-10 22:45:26.112 - Thread:   5 ->     a6634aee6fd647052a3986fd79cd9bba0e4f31d2
+2016-08-10 22:45:26.130 - Thread:   5 ->     3dde689106b953897a602a743219ff34cabe94ab
+2016-08-10 22:45:26.152 - Thread:   5 ->     f052b888d98de1dc0200ff24b68bfde5cddb1b36
+2016-08-10 22:45:26.163 - Thread:   5 ->     60075d49e357af30d719d7262db867cfdd1b1ca2
+2016-08-10 22:45:26.180 - Thread:   5 ->     b795c354d2063afd0f33b458923951622c28510d
+2016-08-10 22:45:26.269 - Thread:   5 ->     630ad3834ef8c6d0cac16fe1216c1caed06ace53
+2016-08-10 22:45:26.353 - Thread:   6 ->     GC Memory: 129,968,696 B
+2016-08-10 22:45:26.354 - Thread:   6 ->     Process Memory: 247,926,784 B
+2016-08-10 22:45:26.365 - Thread:   6 ->     MyScriptManager.LoadData() - START
+2016-08-10 22:45:26.428 - Thread:   5 ->     2deac51ed75467f0b2a1397c17a3005f2f85e78c
+2016-08-10 22:45:26.506 - Thread:   5 ->     4ee1269becac5bde3cbae1f18ecb8d732998e0e2
+2016-08-10 22:45:26.556 - Thread:   5 ->     b637c96ea5d685609e169023e29710c61b7dd566
+2016-08-10 22:45:26.586 - Thread:   5 ->     50fe03825237c4f7b0800ddf3422cfe85d8099f4
+2016-08-10 22:45:26.589 - Thread:   6 ->        Script loaded: _StatLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:26.589 - Thread:   6 ->     MyScriptManager.LoadData() - END
+2016-08-10 22:45:26.595 - Thread:   6 ->     MyDefinitionManager.LoadData() - START
+2016-08-10 22:45:26.617 - Thread:   5 ->     8114d7c36428453aa3bb288f07e8951cbcd10424
+2016-08-10 22:45:26.627 - Thread:   5 ->     a33b7b3c4c1ee2606309fcb2cf0041bb43df1535
+2016-08-10 22:45:26.628 - Thread:   5 ->     7b794be4d6c57ad1bdc99aa7dfa3845f8474f8ef
+2016-08-10 22:45:26.676 - Thread:   5 ->     5efcceb32cc693110b3377ea2c6ff5d85e75b543
+2016-08-10 22:45:26.716 - Thread:   5 ->     5dba68fbfc2e86d787e278815569fb1c518fc183
+2016-08-10 22:45:26.725 - Thread:   5 ->     3231c26bc7546a37ad88508eb04132e80f73454b
+2016-08-10 22:45:26.737 - Thread:   5 ->     8c896950f321e9fe61e4cece26678353a627a08d
+2016-08-10 22:45:26.758 - Thread:   5 ->     d24638fae3100cd39cd082e814ae8e21dafba7e1
+2016-08-10 22:45:26.772 - Thread:   5 ->     db011d01b8789792d4a750e0b486eb08f81abdf6
+2016-08-10 22:45:26.779 - Thread:   5 ->     75d2bebc710c496258e35a54c0cd9030aff07d32
+2016-08-10 22:45:26.784 - Thread:   5 ->     e5187619d993c89162823fd0c0be1b47b8fb752d
+2016-08-10 22:45:26.792 - Thread:   5 ->     b01a9f9d74cb6e5e531b26b9d1f86c8bc9bcf426
+2016-08-10 22:45:26.802 - Thread:   5 ->     d47a7fcc8ae6c5bf95f6a61b43900a265be2f394
+2016-08-10 22:45:26.805 - Thread:   5 ->     598d875110b6cfe2a451a123bd9370073147e062
+2016-08-10 22:45:26.810 - Thread:   5 ->     c11e5e4f178754cedd9c5128f52403bbf12fa1e5
+2016-08-10 22:45:26.835 - Thread:   5 ->     c86371ed10d9c77e24c00bd9ce6b7f730bd88154
+2016-08-10 22:45:26.852 - Thread:   5 ->     15da49e8c125c9f95ca1c890731494fb47c554b3
+2016-08-10 22:45:26.855 - Thread:   5 ->     bf92a5d14ac77e39413d01180a43fa376bc6e4da
+2016-08-10 22:45:26.862 - Thread:   5 ->     d3db23fbd9cb63cdb4d36602257220b4b38fab1a
+2016-08-10 22:45:26.867 - Thread:   5 ->     b91c3eed31d2794f96688844948b95f6fb2bf82f
+2016-08-10 22:45:26.873 - Thread:   5 ->     239d066bfd3f666e857514eec9e5c1b359d14138
+2016-08-10 22:45:26.879 - Thread:   5 ->     f1b7feb4ddf72094ddab5f247ba3aa1b8f4349a1
+2016-08-10 22:45:26.883 - Thread:   5 ->     3dcdd5b8c62edc04d4a07dd625433da3c6d776ae
+2016-08-10 22:45:26.897 - Thread:   5 ->     1b430697a09b24a05994364dc33c25da51879b86
+2016-08-10 22:45:26.907 - Thread:   5 ->     276e0cd996b09a103040a13fa5b7e19e5e0f1719
+2016-08-10 22:45:26.913 - Thread:   5 ->     9c35bda314ed11819ad5c8af888c28a208f023cd
+2016-08-10 22:45:26.917 - Thread:   5 ->     7f32560cd46b31bccecf7cf983583cee5a23d8d3
+2016-08-10 22:45:26.931 - Thread:   5 ->     ffb1c7c1d5d5f40c72b8a95dbea435564b32aab3
+2016-08-10 22:45:26.946 - Thread:   5 ->     5dcd9eb4ed5089bc03e0af169cf43d054ef08ffb
+2016-08-10 22:45:26.951 - Thread:   5 ->     b2b50606934d1ea93f8e35e3ed367fed0e78f482
+2016-08-10 22:45:26.954 - Thread:   5 ->     d60b37a6b61828b2017265f88a3b30971067ef1f
+2016-08-10 22:45:26.959 - Thread:   5 ->     6c9c09028a0d5b21159fd7eb5464079dc29c152b
+2016-08-10 22:45:26.974 - Thread:   5 ->     a4cc7f769a13477ae73d237c3e2a9ecf96fd930c
+2016-08-10 22:45:26.987 - Thread:   5 ->     eae262636e2e1c8e5060ebb8608bf3afbc705bbe
+2016-08-10 22:45:26.995 - Thread:   5 ->     68329da64576c6b35ed86320ba001fca18c184fe
+2016-08-10 22:45:27.008 - Thread:   5 ->     aee8d181cb823fcf3b016f444de94d86f1c401d1
+2016-08-10 22:45:27.019 - Thread:   5 ->     58df0d6b557c24944a6d7862e1fbf590b2c93441
+2016-08-10 22:45:27.066 - Thread:   5 ->     58b9abe86c5aee10a31afc36de82c10a09680a68
+2016-08-10 22:45:27.101 - Thread:   5 ->     d63ca02bbe0c25b8a86a8d1823567369e8fc6f5e
+2016-08-10 22:45:27.124 - Thread:   5 ->     a8c7b0c84d8bf6e4fbd176433fdfa73fef2f217b
+2016-08-10 22:45:27.141 - Thread:   5 ->     ba326b14c9cb5ba28d7c25686888f8c2b4d63558
+2016-08-10 22:45:27.148 - Thread:   5 ->     a05a3352e6496e73673ad0331d4ad2e41a0a3219
+2016-08-10 22:45:27.150 - Thread:   5 ->  MyDefinitionManager.PrepareBaseDefinitions() - END
+2016-08-10 22:45:27.151 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - START
+2016-08-10 22:45:27.152 - Thread:   6 ->        f7c90666cc87170a513170c72773f28a4c9e4561
+2016-08-10 22:45:27.263 - Thread:   6 ->        Loading scenarios
+2016-08-10 22:45:27.263 - Thread:   6 ->     MyDefinitionManager.LoadScenarios() - END
+2016-08-10 22:45:27.270 - Thread:   6 ->        Loading behaviors
+2016-08-10 22:45:27.271 - Thread:   6 ->        Loading ammo magazines
+2016-08-10 22:45:27.275 - Thread:   6 ->        Loading ammo definitions
+2016-08-10 22:45:27.276 - Thread:   6 ->        Loading animations
+2016-08-10 22:45:27.282 - Thread:   6 ->        Loading animations
+2016-08-10 22:45:27.282 - Thread:   6 ->        Loading animations
+2016-08-10 22:45:27.282 - Thread:   6 ->        Loading sound definitions
+2016-08-10 22:45:27.284 - Thread:   6 ->        Loading sound definitions
+2016-08-10 22:45:27.284 - Thread:   6 ->        Loading sound definitions
+2016-08-10 22:45:27.285 - Thread:   6 ->        Loading sound definitions
+2016-08-10 22:45:27.285 - Thread:   6 ->        Loading category classes
+2016-08-10 22:45:27.285 - Thread:   6 ->        Loading blueprint classes
+2016-08-10 22:45:27.288 - Thread:   6 ->        Loading blueprint class entries
+2016-08-10 22:45:27.289 - Thread:   6 ->        Loading blueprints
+2016-08-10 22:45:27.292 - Thread:   6 ->        Loading agent definitions
+2016-08-10 22:45:27.294 - Thread:   6 ->        Loading character definitions
+2016-08-10 22:45:27.314 - Thread:   6 ->        Loading character definitions
+2016-08-10 22:45:27.314 - Thread:   6 ->        Loading components
+2016-08-10 22:45:27.316 - Thread:   6 ->        Loading configuration
+2016-08-10 22:45:27.318 - Thread:   6 ->        Loading container types
+2016-08-10 22:45:27.320 - Thread:   6 ->        Loading block positions
+2016-08-10 22:45:27.324 - Thread:   6 ->        Loading curve definitions
+2016-08-10 22:45:27.328 - Thread:   6 ->        Loading debris
+2016-08-10 22:45:27.329 - Thread:   6 ->        Loading environment items entries
+2016-08-10 22:45:27.330 - Thread:   6 ->        Loading decal global definitions
+2016-08-10 22:45:27.330 - Thread:   6 ->        Loading decal definitions
+2016-08-10 22:45:27.334 - Thread:   6 ->        Loading edges
+2016-08-10 22:45:27.335 - Thread:   6 ->        Loading entity components
+2016-08-10 22:45:27.342 - Thread:   6 ->        Loading component containers
+2016-08-10 22:45:27.344 - Thread:   6 ->        Loading environment definition
+2016-08-10 22:45:27.348 - Thread:   6 ->        Loading environment items entries
+2016-08-10 22:45:27.348 - Thread:   6 ->        Loading factions
+2016-08-10 22:45:27.349 - Thread:   6 ->        Loading gas property definitions
+2016-08-10 22:45:27.350 - Thread:   6 ->        Loading event definitions
+2016-08-10 22:45:27.352 - Thread:   6 ->        Loading physical items
+2016-08-10 22:45:27.364 - Thread:   6 ->        Loading LCD texture categories
+2016-08-10 22:45:27.366 - Thread:   6 ->        Loading physical items
+2016-08-10 22:45:27.367 - Thread:   6 ->        Loading physical material properties
+2016-08-10 22:45:27.372 - Thread:   6 ->        Loading pirate antennas
+2016-08-10 22:45:27.387 - Thread:   6 ->        Loading resource distribution groups
+2016-08-10 22:45:27.387 - Thread:   6 ->        Loading shadow textures definitions
+2016-08-10 22:45:27.389 - Thread:   6 ->        Loading ship sound groups
+2016-08-10 22:45:27.409 - Thread:   6 ->        Loading ship sound groups
+2016-08-10 22:45:27.409 - Thread:   6 ->        Loading sound categories
+2016-08-10 22:45:27.411 - Thread:   6 ->        Loading stat definitions
+2016-08-10 22:45:27.412 - Thread:   6 ->        Loading grid creators
+2016-08-10 22:45:27.415 - Thread:   6 ->        Loading transparent material properties
+2016-08-10 22:45:27.416 - Thread:   6 ->        Loading voxel map storage definitions
+2016-08-10 22:45:27.417 - Thread:   6 ->        Loading voxel material definitions
+2016-08-10 22:45:27.437 - Thread:   6 ->        Audio effects definitions
+2016-08-10 22:45:27.442 - Thread:   6 ->        Loading environment item definitions
+2016-08-10 22:45:27.447 - Thread:   6 ->        Loading environment items definitions
+2016-08-10 22:45:27.449 - Thread:   6 ->        Loading environment items definitions
+2016-08-10 22:45:27.450 - Thread:   6 ->        Loading physical material properties
+2016-08-10 22:45:27.456 - Thread:   6 ->        Loading particle effect definitions
+2016-08-10 22:45:27.574 - Thread:   6 ->        Loading environment item definitions
+2016-08-10 22:45:27.574 - Thread:   6 ->        Loading environment item definitions
+2016-08-10 22:45:27.574 - Thread:   6 ->        Loading voxel material changes definitions
+2016-08-10 22:45:27.574 - Thread:   6 ->        Loading weapon definitions
+2016-08-10 22:45:27.582 - Thread:   6 ->        Loading cube blocks
+2016-08-10 22:45:27.740 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.742 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.743 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.744 - Thread:   6 ->        Loading prefabs
+2016-08-10 22:45:27.745 - Thread:   6 ->        Loading respawn ships
+2016-08-10 22:45:27.746 - Thread:   6 ->        Loading spawn groups
+2016-08-10 22:45:27.754 - Thread:   6 ->        List of used mods (0) - START
+2016-08-10 22:45:27.754 - Thread:   6 ->        List of used mods - END
+2016-08-10 22:45:27.835 - Thread:   6 ->        Could not find environment item definition for MyObjectBuilder_DestroyableItems/SnowFoliagexxxxx.
+2016-08-10 22:45:27.841 - Thread:   6 ->     MyDefinitionManager.LoadData() - END
+2016-08-10 22:45:27.848 - Thread:   6 ->     Registered modules from: VRage.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:27.859 - Thread:   6 ->     Registered modules from: Sandbox.Graphics, Version=0.1.6047.25975, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:27.860 - Thread:   6 ->     Registered modules from: Sandbox.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:27.860 - Thread:   6 ->     Registered modules from: _StatLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:27.860 - Thread:   6 ->     Registered modules from: SpaceEngineers.Game, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:27.878 - Thread:   6 ->     Registered modules from: Sandbox.Game, Version=0.1.6047.25986, Culture=neutral, PublicKeyToken=null
+2016-08-10 22:45:28.079 - Thread:   6 ->     Skip Procedural World Generator
+2016-08-10 22:45:28.089 - Thread:   6 ->     MySunWind.LoadData() - START
+2016-08-10 22:45:28.089 - Thread:   6 ->     MySunWind.LoadData() - END
+2016-08-10 22:45:28.102 - Thread:   6 ->     MyExplosions.LoadData() - START
+2016-08-10 22:45:28.108 - Thread:   6 ->     MyExplosions.LoadData() - END
+2016-08-10 22:45:28.108 - Thread:   6 ->     MyMissiles.LoadContent() - START
+2016-08-10 22:45:28.108 - Thread:   6 ->     MyMissiles.LoadContent() - END
+2016-08-10 22:45:28.112 - Thread:   6 ->     Pre-loading neutral ship spawn groups...
+2016-08-10 22:45:28.112 - Thread:   6 ->     End pre-loading neutral ship spawn groups.
+2016-08-10 22:45:28.112 - Thread:   6 ->     MyLights.LoadData() - START
+2016-08-10 22:45:28.115 - Thread:   6 ->     MyLights.LoadData() - END
+2016-08-10 22:45:28.308 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\EarthLike-557366719d120000.vx2'
+2016-08-10 22:45:32.462 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Moon-1675180789d19000.vx2'
+2016-08-10 22:45:33.758 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Alien-87300816d120000.vx2'
+2016-08-10 22:45:35.572 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Titan-1239934077d19000.vx2'
+2016-08-10 22:45:36.719 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Mars-570368579d120000.vx2'
+2016-08-10 22:45:37.984 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\Europa-1669179430d19000.vx2'
+2016-08-10 22:45:39.811 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 76))A(SnowCoverageIronCore__69)-4.vx2'
+2016-08-10 22:45:39.826 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 78))A(SnowCoverageIronCore__539)-2.vx2'
+2016-08-10 22:45:39.828 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 77))A(SnowCoverageIronCore__220)-0.vx2'
+2016-08-10 22:45:39.830 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 78))A(SnowCoverageIronCore__683)-1.vx2'
+2016-08-10 22:45:39.831 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 75))A(SnowCoverageIronCore__891)-5.vx2'
+2016-08-10 22:45:39.848 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 81))A(StoneCoverageIronCore__906)-6.vx2'
+2016-08-10 22:45:39.915 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 78))A(SnowCoverageIronCore__58)-2.vx2'
+2016-08-10 22:45:39.917 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 76))A(SnowCoverageIronCore__324)-3.vx2'
+2016-08-10 22:45:41.127 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 80))A(SnowCoverageIronCore__270)-1.vx2'
+2016-08-10 22:45:41.174 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 80))A(SnowCoverageIronCore__88)-0.vx2'
+2016-08-10 22:45:41.178 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 79))A(SnowCoverageIronCore__439)-1.vx2'
+2016-08-10 22:45:41.181 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 78))A(SnowCoverageIronCore__82)-2.vx2'
+2016-08-10 22:45:41.184 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 78))A(SnowCoverageIronCore__937)-0.vx2'
+2016-08-10 22:45:41.199 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((46, 123, 57))A(SnowCoverageIronCore__680)-0.vx2'
+2016-08-10 22:45:41.225 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 82))A(StoneCoverageIronCore__774)-3.vx2'
+2016-08-10 22:45:42.874 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 74))A(SnowCoverageIronCore__191)-1.vx2'
+2016-08-10 22:45:42.877 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((74, -1, 74))A(SnowCoverageIronCore__667)-4.vx2'
+2016-08-10 22:45:42.879 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 81))A(SnowCoverageIronCore__836)-0.vx2'
+2016-08-10 22:45:42.884 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 76))A(SnowCoverageIronCore__284)-6.vx2'
+2016-08-10 22:45:42.886 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((70, -1, 82))A(SnowCoverageIronCore__747)-2.vx2'
+2016-08-10 22:45:42.920 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 77))A(SnowCoverageIronCore__244)-2.vx2'
+2016-08-10 22:45:42.922 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((71, -1, 77))A(SnowCoverageIronCore__406)-1.vx2'
+2016-08-10 22:45:42.955 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 77))A(StoneCoverageIronCore__792)-3.vx2'
+2016-08-10 22:45:42.957 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 77))A(SnowCoverageIronCore__645)-7.vx2'
+2016-08-10 22:45:43.089 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((73, -1, 76))A(SnowCoverageIronCore__170)-0.vx2'
+2016-08-10 22:45:43.109 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((78, -1, 78))A(StoneCoverageIronCore__1010)-1.vx2'
+2016-08-10 22:45:43.184 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((77, -1, 72))A(SnowCoverageIronCore__101)-0.vx2'
+2016-08-10 22:45:43.188 - Thread:   6 ->     Loading voxel storage from file 'C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\P(EarthLike-557366719d120000)S((72, -1, 76))A(SnowCoverageIronCore__728)-0.vx2'
+2016-08-10 22:45:43.304 - Thread:   6 ->     Checkpoint.CameraAttachedTo: 0
+2016-08-10 22:45:43.304 - Thread:   6 ->     ERROR: Camera entity from checkpoint does not exists!
+2016-08-10 22:45:43.336 - Thread:   6 ->     MySession.Static.LogSettings - START
+2016-08-10 22:45:43.336 - Thread:   6 ->        Name = Meowmix
+2016-08-10 22:45:43.336 - Thread:   6 ->        Description = 
+2016-08-10 22:45:43.336 - Thread:   6 ->        GameDateTime = 01/03/2081 02:50:01
+2016-08-10 22:45:43.336 - Thread:   6 ->        Password = 
+2016-08-10 22:45:43.336 - Thread:   6 ->        CurrentPath = C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts
+2016-08-10 22:45:43.336 - Thread:   6 ->        WorkshopId = 
+2016-08-10 22:45:43.336 - Thread:   6 ->        CameraController = Sandbox.Engine.Utils.MySpectatorCameraController
+2016-08-10 22:45:43.336 - Thread:   6 ->        ThumbPath = C:\ProgramData\SpaceEngineersDedicated\DeezNuts\Saves\Deez Nuts\thumb.jpg
+2016-08-10 22:45:43.339 - Thread:   6 ->        Settings:
+2016-08-10 22:45:43.339 - Thread:   6 ->           GameMode = Survival
+2016-08-10 22:45:43.339 - Thread:   6 ->           MaxPlayers = 4
+2016-08-10 22:45:43.339 - Thread:   6 ->           OnlineMode = PUBLIC
+2016-08-10 22:45:43.339 - Thread:   6 ->           AutoHealing = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           WeaponsEnabled = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           ThrusterDamage = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnableSpectator = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnableCopyPaste = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           MaxFloatingObjects = 56
+2016-08-10 22:45:43.339 - Thread:   6 ->           CargoShipsEnabled = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnvironmentHostility = NORMAL
+2016-08-10 22:45:43.339 - Thread:   6 ->           ShowPlayerNamesOnHud = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           InventorySizeMultiplier = 10
+2016-08-10 22:45:43.339 - Thread:   6 ->           RefinerySpeedMultiplier = 3
+2016-08-10 22:45:43.339 - Thread:   6 ->           AssemblerSpeedMultiplier = 3
+2016-08-10 22:45:43.339 - Thread:   6 ->           AssemblerEfficiencyMultiplier = 3
+2016-08-10 22:45:43.339 - Thread:   6 ->           WelderSpeedMultiplier = 2
+2016-08-10 22:45:43.339 - Thread:   6 ->           GrinderSpeedMultiplier = 2
+2016-08-10 22:45:43.339 - Thread:   6 ->           ClientCanSave = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           HackSpeedMultiplier = 0.33
+2016-08-10 22:45:43.339 - Thread:   6 ->           PermanentDeath = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           DestructibleBlocks =  True
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnableScripts =  True
+2016-08-10 22:45:43.339 - Thread:   6 ->           AutoSaveInMinutes = 20
+2016-08-10 22:45:43.339 - Thread:   6 ->           SpawnShipTimeMultiplier = 0.5
+2016-08-10 22:45:43.339 - Thread:   6 ->           ProceduralDensity = 0
+2016-08-10 22:45:43.339 - Thread:   6 ->           ProceduralSeed = 0
+2016-08-10 22:45:43.339 - Thread:   6 ->           DestructibleBlocks = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnableIngameScripts = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           ViewDistance = 8000
+2016-08-10 22:45:43.339 - Thread:   6 ->           Battle = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           Voxel destruction = True
+2016-08-10 22:45:43.339 - Thread:   6 ->           EnableStructuralSimulation = False
+2016-08-10 22:45:43.339 - Thread:   6 ->           MaxActiveFracturePieces = 50
+2016-08-10 22:45:43.339 - Thread:   6 ->     MySession.Static.LogSettings - END
+2016-08-10 22:45:43.374 - Thread:   6 ->     Session loaded
+2016-08-10 22:45:43.380 - Thread:   6 ->  MySandboxGame.Initialize() - END
+2016-08-10 22:45:43.381 - Thread:   6 ->  Timer Frequency: 10000000
+2016-08-10 22:45:43.381 - Thread:   6 ->  Ticks per frame: 167364
+2016-08-10 22:45:43.416 - Thread:   6 ->  Server connected to Steam
+2016-08-10 22:45:43.416 - Thread:   6 ->  Server PolicyResponse (1)
+2016-08-10 22:45:43.423 - Thread:   6 ->  Updating continues.
+2016-08-10 22:45:43.689 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-08-10 22:45:43.748 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-08-10 22:45:43.748 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-08-10 22:45:43.750 - Thread:   6 ->  Loading voxel storage from file 'C:\Program Files (x86)\Steam\steamapps\common\SpaceEngineers\Content\VoxelMaps\MediumStoneIronCoreSnowCoverage.vx2'
+2016-08-10 22:45:45.449 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/MeteorWave
+2016-08-10 22:45:45.492 - Thread:   6 ->  MyGlobalEvents.StartGlobalEvent: MyObjectBuilder_GlobalEventBase/SpawnCargoShip
+2016-08-10 22:45:46.275 - Thread:   6 ->  GC Memory: 1,445,541,008 B
+2016-08-10 22:45:46.532 - Thread:   6 ->  Game ready... Press Ctrl+C to exit
+2016-08-10 22:50:53.143 - Thread:   6 ->  Exiting..
+2016-08-10 22:50:53.147 - Thread:   6 ->  MySession::Unload START
+2016-08-10 22:50:53.147 - Thread:   6 ->  AutoSaveInMinutes: 20
+2016-08-10 22:50:53.147 - Thread:   6 ->  MySandboxGame.IsDedicated: True
+2016-08-10 22:50:53.147 - Thread:   6 ->  IsServer: True
+2016-08-10 22:50:53.147 - Thread:   6 ->  Autosave in unload
+2016-08-10 22:50:53.153 - Thread:   6 ->  Saving world - START
+2016-08-10 22:50:53.153 - Thread:   6 ->     Making world state snapshot.
+2016-08-10 22:50:53.153 - Thread:   6 ->     Before snapshot.: GC Memory: 1,457,954,840 B
+2016-08-10 22:50:53.517 - Thread:   6 ->     After snapshot.: GC Memory: 1,460,023,328 B
+2016-08-10 22:50:53.518 - Thread:   6 ->     Directory cleanup: GC Memory: 1,460,031,520 B
+2016-08-10 22:50:53.518 - Thread:   6 ->  Saving world - END
+2016-08-10 22:50:53.521 - Thread:   6 ->  Session snapshot save - START
+2016-08-10 22:50:53.521 - Thread:   6 ->     Checking file access for files in target dir.
+2016-08-10 22:50:54.608 - Thread:   6 ->  Session snapshot save - END
+2016-08-10 22:50:54.942 - Thread:   6 ->  MySunWind.UnloadData - START
+2016-08-10 22:50:54.942 - Thread:   6 ->  MySunWind.UnloadData - END
+2016-08-10 22:50:54.945 - Thread:   6 ->  Unloading Procedural World Generator
+2016-08-10 22:50:54.971 - Thread:   6 ->  Network readers disposed
+2016-08-10 22:50:55.179 - Thread:   6 ->  Network readers disposed
+2016-08-10 22:50:55.179 - Thread:   6 ->  Logging off Steam...
+2016-08-10 22:50:55.179 - Thread:   6 ->  Shutting down server...
+2016-08-10 22:50:55.288 - Thread:   6 ->  Done
+2016-08-10 22:50:55.288 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - START
+2016-08-10 22:50:55.304 - Thread:   6 ->  MyDefinitionManager.PreloadDefinitions() - END
+2016-08-10 22:50:55.522 - Thread:   6 ->  MySession::Unload END
+2016-08-10 22:50:55.522 - Thread:   6 ->  MySandboxGame.UnloadData() - START
+2016-08-10 22:50:55.522 - Thread:   6 ->  MySandboxGame.UnloadData() - END
+2016-08-10 22:50:55.835 - Thread:   6 ->  Log Closed
