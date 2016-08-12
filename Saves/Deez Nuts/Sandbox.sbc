@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1844461440000</ElapsedGameTime>
+  <ElapsedGameTime>1844463040000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-10T23:30:52.2089359+00:00</LastSaveTime>
+  <LastSaveTime>2016-08-12T05:00:52.4400473+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -6589,7 +6589,7 @@
     <MyObjectBuilder_Identity>
       <IdentityId>144115188075855874</IdentityId>
       <DisplayName>Tronald Dump</DisplayName>
-      <CharacterEntityId>102950839583864362</CharacterEntityId>
+      <CharacterEntityId>0</CharacterEntityId>
       <Model>Default_Astronaut</Model>
       <ColorMask x="0" y="-0.96" z="-0.5" />
     </MyObjectBuilder_Identity>
@@ -7238,78 +7238,6 @@
               <HeadAngle x="-0.2904525" y="-31.5140953" />
             </CameraControllerSettings>
           </EntityCameraData>
-          <BuildColorSlots>
-            <Vector3>
-              <X>0</X>
-              <Y>-1</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0</Y>
-              <Z>0.05</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.48</Y>
-              <Z>-0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0</Y>
-              <Z>0</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>-0.1</Y>
-              <Z>0.26</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.95</Y>
-              <Z>0.4</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.96</Y>
-              <Z>-0.5</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.85</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>0.15</Y>
-              <Z>0.25</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.333333343</X>
-              <Y>-0.329999983</Y>
-              <Z>-0.049999997</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.575</X>
-              <Y>0.15</Y>
-              <Z>0.2</Z>
-            </Vector3>
-            <Vector3>
-              <X>0.122222222</X>
-              <Y>0.0500000045</Y>
-              <Z>0.459999979</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.799999952</Y>
-              <Z>0.6</Z>
-            </Vector3>
-            <Vector3>
-              <X>0</X>
-              <Y>-0.809999943</Y>
-              <Z>-0.3</Z>
-            </Vector3>
-          </BuildColorSlots>
         </Value>
       </item>
       <item>
@@ -8723,7 +8651,7 @@
         <Info X="10081.943562667409" Y="-58478.738993451247" Z="15586.597725996049" S="0" A="0" />
       </SpawnInfos>
       <TimeoutInfos>
-        <Info X="10187.370228927175" Y="-58463.213896557936" Z="15560.292783865007" T="69037" />
+        <Info X="10187.370228927175" Y="-58463.213896557936" Z="15560.292783865007" T="0" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
@@ -8733,7 +8661,7 @@
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>29</EntityCount>
+          <EntityCount>30</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
