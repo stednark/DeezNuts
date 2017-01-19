@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <MyObjectBuilder_Checkpoint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <CurrentSector x="0" y="0" z="0" />
-  <ElapsedGameTime>1844466240000</ElapsedGameTime>
+  <ElapsedGameTime>1844469440000</ElapsedGameTime>
   <SessionName>Meowmix</SessionName>
   <SpectatorPosition>
     <Position x="0" y="0" z="-0" />
@@ -18,7 +18,7 @@
   <CameraEntity>0</CameraEntity>
   <Password />
   <Description />
-  <LastSaveTime>2016-08-17T02:30:53.1800614+00:00</LastSaveTime>
+  <LastSaveTime>2017-01-19T05:00:52.8661902+00:00</LastSaveTime>
   <SpectatorDistance>2.6</SpectatorDistance>
   <CharacterToolbar>
     <ToolbarType>Character</ToolbarType>
@@ -73,6 +73,7 @@
     <OnlineMode>PUBLIC</OnlineMode>
     <MaxPlayers>4</MaxPlayers>
     <MaxFloatingObjects>56</MaxFloatingObjects>
+    <MaxBackupSaves>5</MaxBackupSaves>
     <EnvironmentHostility>NORMAL</EnvironmentHostility>
     <AutoHealing>true</AutoHealing>
     <EnableCopyPaste>false</EnableCopyPaste>
@@ -99,10 +100,11 @@
     <EnableToolShake>true</EnableToolShake>
     <VoxelGeneratorVersion>2</VoxelGeneratorVersion>
     <EnableOxygen>true</EnableOxygen>
+    <EnableOxygenPressurization>false</EnableOxygenPressurization>
     <Enable3rdPersonView>true</Enable3rdPersonView>
     <EnableEncounters>true</EnableEncounters>
     <EnableFlora>true</EnableFlora>
-    <EnableStationVoxelSupport>true</EnableStationVoxelSupport>
+    <EnableConvertToStation>true</EnableConvertToStation>
     <EnableSunRotation>true</EnableSunRotation>
     <DisableRespawnShips>false</DisableRespawnShips>
     <ScenarioEditMode>false</ScenarioEditMode>
@@ -128,7 +130,7 @@
       <dictionary />
     </variables>
   </ScriptManagerData>
-  <AppVersion>1140007</AppVersion>
+  <AppVersion>1144011</AppVersion>
   <Factions>
     <Factions>
       <MyObjectBuilder_Faction>
@@ -6840,13 +6842,6 @@
                 </Data>
               </Slot>
               <Slot>
-                <Index>9</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateSmallShip" />
-                </Data>
-              </Slot>
-              <Slot>
                 <Index>10</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
@@ -6893,13 +6888,6 @@
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
                   <DefinitionId Type="MyObjectBuilder_ConveyorSorter" Subtype="LargeBlockConveyorSorter" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>17</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateStation" />
                 </Data>
               </Slot>
               <Slot>
@@ -7990,27 +7978,6 @@
                 </Data>
               </Slot>
               <Slot>
-                <Index>72</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateSmallShip" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>73</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateLargeShip" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>74</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateStation" />
-                </Data>
-              </Slot>
-              <Slot>
                 <Index>75</Index>
                 <Item />
                 <Data xsi:type="MyObjectBuilder_ToolbarItemCubeBlock">
@@ -8101,27 +8068,6 @@
             <ToolbarType>Character</ToolbarType>
             <SelectedSlot xsi:nil="true" />
             <Slots>
-              <Slot>
-                <Index>0</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateStation" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>1</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateLargeShip" />
-                </Data>
-              </Slot>
-              <Slot>
-                <Index>2</Index>
-                <Item />
-                <Data xsi:type="MyObjectBuilder_ToolbarItemCreateGrid">
-                  <DefinitionId Type="MyObjectBuilder_GridCreateToolDefinition" Subtype="CreateSmallShip" />
-                </Data>
-              </Slot>
               <Slot>
                 <Index>3</Index>
                 <Item />
@@ -8654,19 +8600,27 @@
         <Info X="10187.370228927175" Y="-58463.213896557936" Z="15560.292783865007" T="0" />
       </TimeoutInfos>
     </MyObjectBuilder_SessionComponent>
-    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AIComponent" />
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_EnvironmentBotSpawningSystem">
+      <TimeSinceLastEventInMs>114464</TimeSinceLastEventInMs>
+    </MyObjectBuilder_SessionComponent>
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_CoordinateSystem">
+      <Definition Type="MyObjectBuilder_CoordinateSystemDefinition" Subtype="CoordinateSystem" />
       <LastCoordSysId>12</LastCoordSysId>
       <CoordSystems>
         <CoordSysInfo>
           <Id>1</Id>
-          <EntityCount>32</EntityCount>
+          <EntityCount>1</EntityCount>
           <Rotation x="0.98817426" y="0.08171207" z="-0.0106813172" w="0.129308537" />
           <Position x="10074.118328213692" y="-58482.055098235607" z="15555.624302983284" />
         </CoordSysInfo>
       </CoordSystems>
     </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SectorWeatherComponent">
+      <BaseSunDirection x="-0.6735341" y="0" z="0.7391562" />
+      <SunSpeed>120</SunSpeed>
+    </MyObjectBuilder_SessionComponent>
+    <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_SpacePlanetTrackComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_AntennaSessionComponent" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_Encounters" />
     <MyObjectBuilder_SessionComponent xsi:type="MyObjectBuilder_WorldGenerator">
